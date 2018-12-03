@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Wah, orang asing! Nama aku Vincent.#$b#Mama bilang tidak boleh bicara dengan orang asing... Tapi orang sepertimu kayaknya tidak apa." #!String
+    Mon: "Aku ingin bisa seperti kakakku besar nanti!$h#$e#Oke! Dadah!" #!String
+    Mon4: "Papa jarang di rumah... Aku rindu bermain dengannya.$s" #!String
+    Tue: "*huuuft*... Mama melarang aku makan permen karet hari ini.$s" #!String
+    Tue6: "Bisa Abang rahasiakan soal ini?^Bisa Mbak rahasiakan soal ini?$u#$b#Aku ingin menikahi Mbak Penny saat besar nanti.#$e#Jangan beritahu dia, ya.$u" #!String
+    Wed: "Aku ingin berburu serangga, tapi mama bakal marah kalau aku pulangnya kotor-kotor.$u#$b#Serba salah jadinya." #!String
+    Thu: "Aku lapar... Mama di mana?$s" #!String
+    Thu2: "Kamu ternyata tidak membosankan kayak orang dewasa lainnya!" #!String
+    Fri: "#$c .3#Iwh, makan malamnya ubi rebus lagi...$s#$e#Astaga... Mama membuat sup kacang lagi malam ini.$s" #!String
+    Sat_1: "Ayah akan segera pulang!#$b#Semoga dia membawakanku mainan pulang nanti.$u" #!String
+    Sat: "Mbak Penny menyuruhku membaca buku baru setiap minggunya.$s#$b#Setidaknya, kadang-kadang aku dibiarkan memilih buku bacaanku sendiri!" #!String
+    Sat8: "Ayah kelihatan aneh sejak dia pulang. Entah apa yang terjadi dengannya.$s#$b#Dia tidak ingin bermain denganku lagi.$s" #!String
+    Sun: "Halo, Abang!^Halo, Mbak!" #!String
+    Sun10: "Halo, Paman @!^Halo Tante @!#$e#Jangan beritahu mama, ya. Kamu itu orang dewasa yang paling kusukai.$h" #!String
+

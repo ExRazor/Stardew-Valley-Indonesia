@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Ah, iya. Aku sudah lama memprediksi kedatanganmu, nak @.#$e#Akan tetapi, semua takdirmu berada di kedua tanganmu." #!String
+    Mon: "Ah, iya. Aku melihat banyak hal di masa depanmu, nak @.#$e#Sayangnya, ada konsekuensi berat jika aku memberitahumu." #!String
+    Tue: "Jika tidak ada hal penting yang ingin kau sampaikan padaku, pergilah. Aku punya banyak urusan." #!String
+    Tue4: "Aku cukup percaya, untuk mengizinkanmu memasuki ruang bawah tanahku. Perlakukan semua yang kau temukan di sana dengan hormat." #!String
+    Wed: "Butuh waktu setahun untuk mempelajari bahasa para elemental.#$e#Aku terkejut butuh waktu yang cukup lama untuk mengerti bahasa mereka.#$e#Jadi, mengertilah..." #!String
+    Thu: "Banyak misteri di sekitar kita. Kau harus bersabar jika ingin menemukan semuanya." #!String
+    Thu10: "Jangan beritahu siapa-siapa... aku merasa salah satu penduduk di desa ini adalah putriku...#$e#Mungkin saja aku salah... memang jarang, tapi kadang terjadi." #!String
+    Fri: "Aku pikir semua penduduk takut padaku.#$e#Sangat disayangkan, tapi aku rasa wajar bila manusia takut akan sesuatu yang tidak mereka tahui." #!String
+    Fri6: "Aku sudah menikah, sudah lama sekali. Setelah aku dan istriku berpisah, dia mulai terbang di sekitar pedesaan, mengutuk semua yang dia lihat.#$e#menunjukkan amarah seperti itu tidak sepatutnya dilakukan orang dewasa." #!String
+    Sat: "hati-hati, kau sedang berdiri di atas lingkaran sihir kuat.#$e#Asal kau tahu, aku sengaja membuat menara ini di sini." #!String
+    Sat2: "Apa kau pernah pergi ke hutan spirits?" #!String
+    Sun: "Kadang-kadang aku diam-diam mengamati penduduk lokal.#$e#Aku berharap menemukan seorang murid. Suatu hari nanti aku harus meninggalkan dunia fana ini, tapi pendalaman batin harus tetap dilanjutkan." #!String

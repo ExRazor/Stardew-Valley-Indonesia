@@ -1,0 +1,135 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.Int32Reader"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<Int32,String>
+    0: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    1: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    2: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    3: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    4: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    5: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    6: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    7: "House Plant/50/-300/Crafting -9/Menambah Beberapa Keunikan Di Rumah Kebunmu./true/true/0/Tanaman Hias" #!String
+    8: "Scarecrow/50/-300/Crafting -9/Mencegah Gagak Menyerang Tanamanmu. Memiliki Jangkauan Trbatas (about 8 \"Kotak\")./true/true/0/Orangan Sawah" #!String
+    9: "Lightning Rod/50/-300/Crafting -9/Mengumpulkan energi dari petir dan mengubahnya jadi baterai./true/true/0/Penangkal Petir" #!String
+    10: "Bee House/50/-300/Crafting -9/Letakkan di luar dan tunggu hingga menghasilkan madu! (kecuali di musim dingin)./true/true/0/Rumah Lebah" #!String
+    12: "Keg/50/-300/Crafting -9/Letakkan buah dan sayur di sini. Dan Akan Diubah menjadi minuman./true/true/0/Tong" #!String
+    13: "Furnace/50/-300/Crafting -9/Mengubah biji logam dan batu bara menjadi kepingan logam./true/true/0/Tungku Api" #!String
+    15: "Preserves Jar/50/-300/Crafting -9/Mengubah sayuran menjadi acar dan buah menajdi selai./true/true/0/Kendi Pengawet" #!String
+    16: "Cheese Press/50/-300/Crafting -9/Merubah susu menjadi keju./true/true/0/Press Keju" #!String
+    17: "Loom/50/-300/Crafting -9/Mengubah wol menjadi kain./true/true/0/Mesin Tenun" #!String
+    19: "Oil Maker/50/-300/Crafting -9/Membuat Minyak Masak Penggurih makanan./true/true/0/Pembuat Minyak" #!String
+    20: "Recycling Machine/50/-300/Crafting -9/Mengubah sampah pancingan menjadi sumber daya./true/true/0/Mesin Daur Ulang" #!String
+    21: "Crystalarium/50/-300/Crafting -9/Masukan permata pilihanmu dan akan tumbuh menjadi dua./true/true/0/Kristalarium" #!String
+    22: "Table Piece L/50/-300/Crafting -9/Sisi kiri dari meja besar./true/true/0/Potongan Meja Kiri" #!String
+    23: "Table Piece R/50/-300/Crafting -9/Sisi kanan dari meja besar/true/true/0/Potongan Meja Kanan" #!String
+    24: "Mayonnaise Machine/50/-300/Crafting -9/Mengubah telur menjadi mayones./true/true/0/Pembuat Mayones" #!String
+    25: "Seed Maker/50/-300/Crafting -9/Masukan hasil panen untuk menghasilkan berbagai benih. Tak berfungsi dengan buah pohon./true/true/0/Pembuat Benih" #!String
+    26: "Wood Chair/50/-300/Crafting -9/Kursi yang dapat diorientasikan ke 4 arah berbeda./true/true/0/Kursi Kayu" #!String
+    27: "Wood Chair/50/-300/Crafting -9/Kursi yang dapat diorientasikan ke 4 arah berbeda./true/true/0/Kursi Kayu" #!String
+    28: "Skeleton Model/50/-300/Crafting -9/Sebuah model dari Kerangka./true/true/0/Model Kerangka" #!String
+    29: "Obelisk/50/-300/Crafting -9/Portal Pencari yang memancarkan energi jahat./false/true/0/Obelisk" #!String
+    31: "Chicken Statue/50/-300/Crafting -9/Patung kayu sebuah ayam./true/true/0/Patung ayam" #!String
+    56: "Slime Ball/50/-300/Crafting -9/Penuh Dengan lendir./true/true/2/Bola Slime" #!String
+    64: "Bookcase/50/-300/Crafting -9/Tempat dari buku./true/false/1/Lemari Buku" #!String
+    65: "Fancy Table/50/-300/Crafting -9/Meja bundar yang bagus./true/false/1/Meja Mewah" #!String
+    66: "Ancient Table/50/-300/Crafting -9/Ditutupi oleh jaring laba-laba./true/false/1/Meja Kuno" #!String
+    67: "Ancient Stool/50/-300/Crafting -9/Seperti bau apartemen Nenek./true/false/1/Bangku Kuno" #!String
+    68: "Grandfather Clock/50/-300/Crafting -9/Sudah sangat tua... Sepertinya sudah berkarat di tempat ini./true/false/1/Jam Kakek" #!String
+    69: "Teddy Timer/50/-300/Crafting -9/Jam kakek yang berbentuk seperti boneka tedy./true/false/1/Jam Tedy" #!String
+    70: "Dead Tree/0/-300/Crafting -9/Mengeras sudah sangat lama sekali./true/false/1/Pohon Mati" #!String
+    71: "Staircase/0/-300/Crafting -9/Gunakan untuk berpindah level lantai saat di tambang./true/false/1/Tangga" #!String
+    72: "Tall Torch/0/-300/Crafting -9/Batangnya Terbuat Dari bambu./true/false/1/Obor Panjang" #!String
+    73: "Ritual Mask/0/-300/Crafting -9/Sangat besar untuk digunakan./true/false/1/Topeng Ritual" #!String
+    74: "Bonfire/0/-300/Crafting -9/Apinya bersinar dengan lembut./true/false/1/Api Unggun" #!String
+    75: "Bongo/0/-300/Crafting -9/Dekorasi alat perkusi dengan bebragai macam suara./true/false/1/Bongo" #!String
+    76: "Decorative Spears/0/-300/Crafting -9/Dekorasi yang sedikit berbahaya./true/false/1/Dekorasi Tombak" #!String
+    78: "Boulder/0/-300/Crafting -9/Sepotong batu yang sangat padat./true/false/1/Batu Besar" #!String
+    79: "Door/0/-300/Crafting -9/Mekanisme tersembunyi yang dapat bersembunyi dalam tanah./true/false/1/Pintu" #!String
+    80: "Door/0/-300/Crafting -9/Mekanisme tersembunyi yang dapat bersembunyi dalam tanah./true/false/1/Pintu" #!String
+    81: "Locked Door/0/-300/Crafting -9/Mekanisme tersembunyi yang dapat bersembunyi dalam tanah./true/false/2/Pintu Terkunci" #!String
+    82: "Locked Door/0/-300/Crafting -9/Mekanisme tersembunyi yang dapat bersembunyi dalam tanah./true/false/2/Pintu Terkunci" #!String
+    83: "Wicked Statue/0/-300/Crafting -9/Sesuatu terlihat tak beres dengan Monumen ini./true/false/0/Monumen Terkutuk" #!String
+    84: "Wicked Statue/0/-300/Crafting -9/Sesuatu terlihat tak berse dengan monumen ini./true/false/2/Monumen Terkutuk" #!String
+    85: "Sloth Skeleton L/0/-300/Crafting -9/Kungkang yang lamaban ini pernah berkeliaran di hutan prasejarah Stardew Valley. Rahangnya yang kuat mengoyak tanaman./true/false/0/Kerangka Kungkang" #!String
+    86: "Sloth Skeleton M/0/-300/Crafting -9/Tulang rusuk dari kungkang prasejarah. /true/false/0/Kerangka Kungkang" #!String
+    87: "Sloth Skeleton R/0/-300/Crafting -9/Kaki belakang dan ekor dari kungkang prasejarah./true/false/0/Kerangka Kungkang" #!String
+    88: "Standing Geode/0/-300/Crafting -9/Sebuah gedoe besar yang terpasang . Ratusan kristal ungu bersinar dengannya./true/false/0/Standing Gedoe" #!String
+    89: "Obsidian Vase/0/-300/Crafting -9/Vas ornamen indah yang dibuat dari obsidian dan emas./true/false/0/Vas Obsidian" #!String
+    90: "Crystal Chair/0/-300/Crafting -9/Kursi Indah yang terbuat dari kristal./true/false/0/Kursi kristal" #!String
+    94: "Singing Stone/0/-300/Crafting -9/Berdering Saat Dipukul./true/false/0/Batu Berdering" #!String
+    95: "Stone Owl/0/-300/Crafting -9/Tak pasti dari mana berasal, tapi ini terlihat bagus./true/false/0/Batu Burung Hantu" #!String
+    96: "Strange Capsule/0/-300/Crafting -9/Sesuatu yang mirip darah di cairan itu.../true/false/0/Kapsul Aneh" #!String
+    98: "Empty Capsule/0/-300/Crafting -9/Bagian dari kaca yang hancur./true/false/0/Kapsul Kosong" #!String
+    99: "Feed Hopper/0/-300/Crafting -9/Menyediakan akses yang mudah ke penyimpanan makanan ternak silo./true/false/0/Penampung Pakan" #!String
+    101: "Incubator/0/-300/Crafting -9/Menetaskan telur menjadi bayi ayam dan bebek./true/false/2/Inkubator" #!String
+    104: "Heater/0/-300/Crafting -9/Membuat ternakmu tetap hangat dan nyaman saat musim dingin./true/false/0/Penghangat" #!String
+    105: "Tapper/0/-300/Crafting -9/Tempatkan pada pohon maple, oak dan pinus kemudian tunggu hingga penuh!/true/false/0/Penyadap" #!String
+    106: "Camera/0/-300/Crafting -9/Kamera tua yang terpasang pada tripod./true/false/0/Kamera" #!String
+    107: "Plush Bunny/0/-300/Crafting -9/Besar, lembut, dan lucu./false/true/0/Kelinci Mewah" #!String
+    108: "Tub o' Flowers/0/-300/Crafting -9/Bunga tertanam Di tong oak. Mekar di musim semi dan panas./true/true/0/Tong Bunga" #!String
+    109: "Tub o' Flowers/0/-300/Crafting -9/Bunga tertanam di tong oak. Mekar di musim semi dan panas./true/true/0/Tong Bunga" #!String
+    110: "Rarecrow/0/-300/Crafting -9/Kumpulkan Semuanya! (1 dari 8)/true/true/0/Rarecrow" #!String
+    111: "Decorative Pitcher/0/-300/Crafting -9/Hand-made out of brass./true/true/0" #!String
+    112: "Dried Sunflowers/0/-300/Crafting -9/Dekorasi rumah yang meriah./true/true/0/Bunga Matahari Kering" #!String
+    113: "Rarecrow/0/-300/Crafting -9/Kumpulkan Semuanya! (2 Dari 8)/true/true/0/Rarecrow" #!String
+    114: "Charcoal Kiln/0/-300/Crafting -9/Mengubah 10 potongan kayu menjadi batu bara./true/true/0/Pembakar Arang" #!String
+    116: "Stardew Hero Trophy/0/-300/Crafting -9/Penghargaan paling bergengsi yang diterima penduduk stadrew valley!/true/true/0/Tropi Pahlawan Stadrew" #!String
+    117: "Soda Machine/0/-300/Crafting -9/Terus memompa keluar sesuatu yang bagus./true/true/0/Mesin Soda" #!String
+    118: "Barrel/0/-300/Crafting -9/.../true/true/0/Barel" #!String
+    119: "Crate/0/-300/Crafting -9/.../true/true/0/Peti Kayu" #!String
+    120: "Barrel/0/-300/Crafting -9/.../true/true/0/Barel" #!String
+    121: "Crate/0/-300/Crafting -9/.../true/true/0/Peti Kayu" #!String
+    122: "Barrel/0/-300/Crafting -9/.../true/true/0/Barel" #!String
+    123: "Crate/0/-300/Crafting -9/.../true/true/0/Peti Kayu" #!String
+    124: "Barrel/0/-300/Crafting -9/.../true/true/0/Barel" #!String
+    125: "Crate/0/-300/Crafting -9/.../true/true/0/Peti Kayu" #!String
+    126: "Rarecrow/0/-300/Crafting -9/Kumpulkan Semuanya! (3 dari 8)/true/true/0/Rarecrow" #!String
+    127: "Statue Of Endless Fortune/0/-300/Crafting -9/Dibuat dari emas yang kokoh. Ini untuk apa?/true/true/0/Monumen Keberuntungan" #!String
+    128: "Mushroom Box/0/-300/Crafting -9/Jamur akan tumbuh dalam beberapa hari/true/true/2/Kotak Jamur" #!String
+    130: "Chest/0/-300/Crafting -9/Tempat untuk menyimpan barangmu./true/true/0/Peti" #!String
+    136: "Rarecrow/0/-300/Crafting -9/Kumpulkan semuanya! (4 dari 8)/true/true/0/Rarecrow" #!String
+    137: "Rarecrow/0/-300/Crafting -9/Kumpulkan Semuanya! (5 dari 8)/true/true/0/Rarecrow" #!String
+    138: "Rarecrow/0/-300/Crafting -9/Kumpulkan semuanya! (6 dari 8)/true/true/0/Rarecrow" #!String
+    139: "Rarecrow/0/-300/Crafting -9/Kumpulkan semuanya! (7 dari 8)/true/true/0/Rarecrow" #!String
+    140: "Rarecrow/0/-300/Crafting -9/Kumpulkan semuanya! (8 dari 8)/true/true/0/Rarecrow" #!String
+    141: "Prairie King Arcade System/0/-300/Crafting -9/Memainkan 'Journey Of The Prairie King' di rumah!/true/true/0/Game Arcade Prairie King" #!String
+    143: "Wooden Brazier/25/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Kayu" #!String
+    144: "Stone Brazier/40/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Batu" #!String
+    145: "Gold Brazier/100/-300/Crafting -9/Menyediakan Cukup cahaya./true/true/0/Tungku Emas" #!String
+    146: "Campfire/0/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Api Unggun" #!String
+    147: "Stump Brazier/80/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku" #!String
+    148: "Carved Brazier/200/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Berukir" #!String
+    149: "Skull Brazier/300/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Tengkorak" #!String
+    150: "Barrel Brazier/80/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Barel" #!String
+    151: "Marble Brazier/500/-300/Crafting -9/Menyediakan cukup cahaya./true/true/0/Tungku Marmer" #!String
+    152: "Wood Lamp-post/50/-300/Crafting -9/Menyediakan cahaya yang baik./true/true/0/true/Tiang Lampu Kayu" #!String
+    153: "Iron Lamp-post/100/-300/Crafting -9/Menyediakan Cahaya yang baik./true/true/0/true/Tiang Lampu Besi" #!String
+    154: "Worm Bin/0/-300/Crafting -9/Memproduksi umpan dasar. Para cacing cukup mandiri./true/true/0/Penyimpanan Cacing" #!String
+    155: "??HMTGF??/0/-300/Crafting -9/??HMTGF??/true/true/0/??HMTGF??" #!String
+    156: "Slime Incubator/0/-300/Crafting -9/Menetaskan telur slime menjadi Slime. Memungkinkanmu membesarkan slime di luar./true/false/0/Inkubator Telur Slime" #!String
+    158: "Slime Egg-Press/0/-300/Crafting -9/Mengompress 100 potongan slime menjadi telur slime. ini adalah keajaiban dunia sains!/true/false/0/Pembuat Telur Slime" #!String
+    159: "Junimo Kart Arcade System/0/-300/Crafting -9/Bermain 'Junimo Kart' di rumah!/true/true/0/Game Arcade Junimo Kart" #!String
+    160: "Statue Of Perfection/0/-300/Crafting -9/Terbuat dari iridium murni./true/true/0/Monumen Kesempurnaan" #!String
+    161: "??Pinky Lemon??/0/-300/Crafting -9/??Pinky Lemon??/true/true/0/??Pinky Lemon??" #!String
+    162: "??Foroguemon??/0/-300/Crafting -9/??Foroguemon??/true/true/0/??Foroguemon??" #!String
+    163: "Cask/0/-300/Crafting -9/Gunakan di ruang bawah tanah untuk memproduksi wine dan keju berkualitas./true/true/0/Tong Kecil" #!String
+

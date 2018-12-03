@@ -1,0 +1,31 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Ahoy nak! Senang bisa melihat anak muda pindah ke desa. Belakangan ini jarang terjadi." #!String
+    Mon: "Ahoy, nak.^Ahoy, nak.#$b#Cuaca yang indah untuk memancing?" #!String
+    Mon4: "Apa kau sudah mencoba keberuntunganmu di perairan lokal ini? Kau bisa saja jadi pemancing kuat jika kau bisa memusatkan pikiranmu." #!String
+    Tue: "Pemancing sejati menghormati perairan... jangan lupakan itu." #!String
+    Tue6: "Asal kau tau, Ayahku dulu juga seorang nelayan. Aku tumbuh dengan berlayar di antara pulau fern, bertahan hidup dengan memakan hasil pancingan .#$e#Hidup sebagai nelayan memang keras, tapi ada suatu hal yang tetap memaksamu untuk melanjutkannya." #!String
+    Wed: "Beberapa ikan kadang berbeda di setiap musim. Yang lain kadang muncul di malam hari atau saat hujan." #!String
+    Thu: "*gumam* *gumam* ...Eh? Aku akan memberitahumu sesuatu, tapi ini adalah rahasia para nelayan." #!String
+    Thu2: "Ada rumor tentang ikan yang sangat... sangat langka berada di perairan ini... tapi hanya pemancing berpengalaman saja yang bisa menangkapnya.#$e#Kau butuh umpan terbaik supaya ikan itu menggigit kailmu." #!String
+    Fri: "Jika kau ingin cepat ikan menggigit pancingmu, pastikan kau menaruh umpan di kailnya." #!String
+    Sat: "Jika suasana memancing lokal lebih ramai, Aku mungkin akan menambah stok tokoku." #!String
+    Sat8: "Gimana kabar memancingmu?#$e#Aku sudah mencoba memancing sesering mungkin, tapi aku punya toko yang harus diurus." #!String
+    Sun: "Jika kau membeli alat pancing kualitas tinggi, kau bisa menaruh umpan dan memberi tackle di pancingmu.#$b#Umpan membuat ikan lebih cepat menggigit pancinganmu. Dan tackle memudahkanmu untuk menarik senar pancing.#$e#tackle banyak macam, dan keunggulan yang berbeda. Tackle ini sedikit rapuh, jadi jangan terkejut bila tackle-mu tiba-tiba rusak." #!String
+    Sun10: "Wah, itu favoritku, @!$h#$e#Aku akan memberimu diskon jika kau menjualnya padaku.$s" #!String

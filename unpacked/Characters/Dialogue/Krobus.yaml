@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    4: "...Kau pernah bertemu dengan sejenisku di tambang? Mohon dimaafkan kalau mereka berbuat kasar padamu. Kau tahu, kami telah belajar untuk menakuti manusia... karena sudah banyak... pertemuan yang tidak menyenangkan dengan mereka.#$e#Kau tidak... menghabisi teman-temanku, kan?" #!String
+    8: "Perang 1000 tahun antara kaumku dengan kaum dwarf belum lama ini berakhir. Masih tersimpan sedikit dendam antara kedua pihak." #!String
+    15: "Tolong rahasiakan tempatku ini. Kalau para dwarf sampai tahu, mereka pasti akan mengutus pembunuh." #!String
+    Fri: "..." #!String
+    Wed: "Aku mencari barang di sekitar sini lalu kujual. Minat beli?" #!String
+    Thu: "Tolong jangan beritahu siapa-siapa soal aku.#$b#Manusia suka menghancurkan sesuatu yang di luar nalar mereka." #!String
+    Tue: "Aku tidak keluar saat siang karena sangat sensitif dengan sinar matahari.#$b#Suasana di sini sangat sempurna.#$e#Ingin beli sesuatu?" #!String
+    Mon: "Kau tidak perlu waspada. Aku berbeda dengan yang lainnya.#$e#Aku menghabiskan waktu untuk mengamati manusia. Aku tahu kau suka berbelanja. Ingin lihat daganganku?" #!String
+    Mon2: "Balik lagi? Kayaknya memang cocok dengan teori kebiasaan manusiaku." #!String
+    Mon6: "'Krobus' artinya 'jembatan-penyebrangan' dalam bahasa kami." #!String
+    Sat: "Setiap Jumat, aku akan tutup mulut sebagai wujud sembahku untuk Yoba." #!String
+    Sun: "...Maaf, aku masih sedikit was-was dengan manusia. Tapi tokoku selalu terbuka untukmu, kok." #!String
+    Sun4: "Kau berbeda dari manusia lain, ya." #!String
+    Sun8: "Kau telah membuka mataku tentang dunia manusia. Aku berterima kasih." #!String
+

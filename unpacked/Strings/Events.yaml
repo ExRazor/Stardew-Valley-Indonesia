@@ -1,0 +1,35 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    BirthMessage_Adoption: "Sewaktu malam, pihak agensi adopsi menitipkanmu bayi {0}." #!String
+    BirthMessage_PlayerMother: "Sewaktu malam, kamu melahirkan bayi {0}." #!String
+    BirthMessage_SpouseMother: "Sewaktu malam, {1} melahirkan bayi {0}." #!String
+    BabyNamingTitle_Male: "Akan kita namakan apa bayi laki-laki kita?" #!String
+    BabyNamingTitle_Female: "Akan kita namakan apa bayi perempuan kita?" #!String
+    HaveBabyQuestion: "Kamu tidak ingin punya bayi, {0} sayang?" #!String
+    HaveBabyQuestion_Adoption: "Kamu tidak ingin mengadopsi bayi, {0} sayang?" #!String
+    HaveBabyAnswer_Yes: "Ya" #!String
+    HaveBabyAnswer_No: "Belum sekarang..." #!String
+    SpouseFlowerDanceAccept_Shane: "Dansa? Walah~ Oke... biar kuhabiskan dulu minuman ini..." #!String
+    SpouseFlowerDanceAccept_Emily: "Tentu, cintaku. Aku sudah sangat menantikan ini!$h" #!String
+    AnimalBirth: "Sewaktu malam, {0} melahirkan bayi {1}." #!String
+    AnimalNamingTitle: "Beri nama bayi {0}:" #!String
+    SoundInTheNight_UFO: "Ada suara aneh terdengar saat malam hari..." #!String
+    SoundInTheNight_Meteorite: "Terdengar ledakan saat malam hari..." #!String
+    SoundInTheNight_Earthquake: "Ada gempa bumi saat malam hari." #!String
+

@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Pertahankan, Nak. Kau punya potensi jadi lebih hebat.#$e#Tinggal tanya jika butuh sesuatu.$h" #!String
+    Tue: "Aku tahu kau akan tetap datang ke sini. Tentu saja, aku sengaja membuatnya sedikit lebih sulit biar agar kau bisa merasa lebih puas ketika berhasil menyelesaikannya." #!String
+    Wed: "Aku terlahir sebagai anak biasa dulunya, tapi aku mulai memutuskan lebih awal untuk menjadi anak yang luar biasa." #!String
+    Thu: "Hei, jangan beritahu siapa-siapa soal tempat ini, ya. Aku ingin menjaganya tetap... rahasia.#$e#Kau bersedia menjaga rahasia temanmu, Tuan Qi, ini, kan?$s" #!String
+    Fri: "Jangan berhenti bekerja keras untuk mencapai yang terbaik.#$e#Kerahkan segalanya pada setiap hal yang kaukerjakan" #!String
+    Sat: "Mampirlah setiap kali ingin bersantai sejenak." #!String
+    Sun: "Teruslah bekerja keras, suatu saat kau akan jadi sepertiku nanti.$h" #!String
+

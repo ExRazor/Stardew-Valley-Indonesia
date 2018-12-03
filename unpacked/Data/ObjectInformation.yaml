@@ -1,0 +1,575 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.Int32Reader"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<Int32,String>
+    0: "Weeds/0/-1/Basic/Rumput/Sejumput rumput tak berguna." #!String
+    2: "Stone/0/-300/Basic/Batu/Material berguna yang dipecah oleh beliung." #!String
+    4: "Stone/0/-300/Basic/Batu/Material berguna yang dipecah oleh kapak." #!String
+    16: "Wild Horseradish/50/5/Basic -81/Lobak Liar/Tumbuhan akar yang tumbuh saat musim semi." #!String
+    18: "Daffodil/30/0/Basic -81/Daffodil/Bunga musim semi yang bagus untuk hadiah." #!String
+    20: "Leek/60/16/Basic -81/Bawang Prei/Tumbuhan keluarga bawang." #!String
+    22: "Dandelion/40/10/Basic -81/Dandelion/Bukan bunga yang indah, tapi daun nya dapat dijadikan salad." #!String
+    24: "Parsnip/35/10/Basic -75/Ubi Jalar/Umbi musim semi sekeluarga dengan Wortel. Punya rasa unik dan penuh nutrisi." #!String
+    30: "Lumber/2/10/Basic/Kayu/Bahan serba guna, digunakan untuk bangunan dan bahan bakar." #!String
+    60: "Emerald/250/-300/Minerals -2/Emerald/Batu permata dengan warna hijau berkilau." #!String
+    62: "Aquamarine/180/-300/Minerals -2/Aquamarine/Batu permata dengan warna hijau kebiruan." #!String
+    64: "Ruby/250/-300/Minerals -2/Ruby/Batu permata yang dicari karena kaya akan warna dan penuh kilauan." #!String
+    66: "Amethyst/100/-300/Minerals -2/Amethyst/Batu permata berwarna ungu." #!String
+    68: "Topaz/80/-300/Minerals -2/Topaz/Mudah ditemukan, tapi tetap berharga karena keindahannya." #!String
+    70: "Jade/200/-300/Minerals -2/Jade/Batu ornamen berwarna hijau pucat." #!String
+    72: "Diamond/750/-300/Minerals -2/Diamond/Batu permata yang sangat langka dan berharga." #!String
+    74: "Prismatic Shard/2000/-300/Minerals -2/Pecahan Prismatic/Material langka dan kuat yang asalnya tidak diketahui." #!String
+    75: "Stone/50/-300/Basic/Batu/..." #!String
+    76: "Stone/50/-300/Basic/Batu/..." #!String
+    77: "Stone/50/-300/Basic/Batu/..." #!String
+    78: "Cave Carrot/25/12/Basic -81/Wortel Gua/Tanaman yang tumbuh dalam gua. Membantu penambang bekerja lebih lama." #!String
+    80: "Quartz/25/-300/Minerals -2/Quartz/Kristal indah yang biasa ditemukan di gua dan tambang." #!String
+    82: "Fire Quartz/100/-300/Minerals -2/Fire Quartz/Kristal merah menyala yang biasa ditemukan di dekat lava panas." #!String
+    84: "Frozen Tear/75/-300/Minerals -2/Frozen Tear/Kristal yang katanya terbentuk dari air mata yeti yang membeku." #!String
+    86: "Earth Crystal/50/-300/Minerals -2/Earth Crystal/Material tanah yang biasa ditemukan dekat permukaan." #!String
+    88: "Coconut/100/-300/Basic -79/Kelapa/Biji pohon kelapa. Banyak digunakan untuk memasak." #!String
+    90: "Cactus Fruit/75/30/Basic -79/Buah Kaktus/Buah manis dari pohon kaktus." #!String
+    92: "Sap/2/-1/Basic -81/Getah/Cairan yang didapat dari pohon." #!String
+    93: "Torch/5/-300/Crafting/Obor/Menyediakan sedikit cahaya." #!String
+    94: "Spirit Torch/5/-300/Crafting/Obor Magis/Masih menjadi misteri, dari mana datangnya warna biru tersebut." #!String
+    96: "Dwarf Scroll I/1/-300/Arch/Dwarf Scroll I/Gulungan kuning yang berisi naskah bahasa Dwarf. Diikat dengan pita merah.//Set Dwarf 96 97 98 99" #!String
+    97: "Dwarf Scroll II/1/-300/Arch/Dwarf Scroll II/Gulungan kuning yang berisi naskah bahasa Dwarf. Diikat dengan pita hijau.//Set Dwarf 96 97 98 99" #!String
+    98: "Dwarf Scroll III/1/-300/Arch/Dwarf Scroll III/Gulungan kuning yang berisi naskah bahasa Dwarf. Diikat dengan pita biru.//Set Dwarf 96 97 98 99" #!String
+    99: "Dwarf Scroll IV/1/-300/Arch/Dwarf Scroll IV/Gulungan kuning yang berisi naskah bahasa Dwarf. Diikat dengan pita emas.//Set Dwarf 96 97 98 99" #!String
+    100: "Chipped Amphora/40/-300/Arch/Bejana Antik/Wadah antik terbuat dari keramik. Dipakai untuk memindahkan bahan kering atau basah./Town .04/Item 3 461" #!String
+    101: "Arrowhead/40/-300/Arch/Arrowhead/Mata pisau kuno digunakan untuk berburu./Mountain .02 Forest .02 BusStop .02/Debris 2 30 14" #!String
+    102: "Lost Book/50/-300/asdf/Buku Kuno/Kumpulan tulisan dari berbagai zaman./Town .05/Note" #!String
+    103: "Ancient Doll/60/-300/Arch/Boneka Purba/Boneka kuno yang dipenuhi debu. Ini mungkin digunakan sebagai mainan, dekorasi, atau sebuah ritual./Mountain .04 Forest .03 BusStop .03 Town .01/Money 1 250" #!String
+    104: "Elvish Jewelry/200/-300/Arch/Permata Elf/Kotor tapi tetap indah. Dari samping terlihat naskah yang menurut orang adalah bahasa kuno para elf. Keberadaan Elf masih menjadi misteri./Forest .01/Debris 1 20 6" #!String
+    105: "Chewing Stick/50/-300/Arch/Tongkat Kunyah/Orang zaman dulu mengunyah ini untuk menjaga gigi mereka tetap bersih./Mountain .02 Town .01 Forest .02/Decor 10 28" #!String
+    106: "Ornamental Fan/300/-300/Arch/Kipas Hiasan/Kipas eksotis ini dulunya milik wanita bangsawan. Sejarawan percaya Stardew Valley dulunya tempat berlibur orang-orang kaya era kerajaan./Beach .02 Town .008 Forest .01/Money 1 300" #!String
+    107: "Dinosaur Egg/350/-300/Arch/Telur Dinosaurus/Telur dinosaurus raksasa. Seluruh cangkangnya masih utuh!/Mine .01 Mountain .008/Item 1 107" #!String
+    108: "Rare Disc/300/-300/Arch/Piringan Langka/Piringan hitam berat dengan hiasan batu merah aneh. Memegangnya akan diselimuti rasa takut./UndergroundMine .01/Decor 1 29" #!String
+    109: "Ancient Sword/100/-300/Arch/Pedang Kuno/Sisa dari pedang kuno. Sebagian besar sudah berkarat, tapi gagangnya masih bagus./Forest .01 Mountain .008/Debris 1 30 2" #!String
+    110: "Rusty Spoon/25/-300/Arch/Sendok Tua/Sendok tua biasa, Berumur sekitar sepuluh tahun. Tidak begitu menarik./Town .05/Debris 5 30 2" #!String
+    111: "Rusty Spur/25/-300/Arch/Taji Tua/Taji tua yang dulunya menempel pada sepatu para cowboy. Orang-orang pasti sudah merawat hewan di wilayah ini dari dulu./Farm .1/Money 1 100" #!String
+    112: "Rusty Cog/25/-300/Arch/Gerigi Berkarat/Gerigi yang sepertinya bagian dari mesin kuno. Mungkin mesin teknologi dwarf./Mountain .05/Debris 1 20 4" #!String
+    113: "Chicken Statue/50/-300/Arch/Patung Ayam/Patung ayam dengan fondasi perunggu. Orang-orang dulu pasti sangat dekat dengan ayam./Farm .1/Decor 5 31" #!String
+    114: "Ancient Seed/5/-300/Arch/Bibit Purba/Bibit kering dari tanaman purba. Dilihat dari bentuknya sudah lama mati.../Forest .01 Mountain .01/Seeds 9" #!String
+    115: "Prehistoric Tool/50/-300/Arch/Alat Prasejarah/Semacam alat menggali kuno./Mountain .03 Forest .03 BusStop .04/Debris 1 30 12" #!String
+    116: "Dried Starfish/40/-300/Arch/Bintang Laut Kering/Bintang Laut dari laut purba. Spesimen murni yang langka!/Beach .1/Money 1 200" #!String
+    117: "Anchor/100/-300/Arch/Jangkar/Kemungkinan milik bajak laut kuno./Beach .05/Item 1 289" #!String
+    118: "Glass Shards/20/-300/Arch/Pecahan Kaca/Pecahan kaca yang terkubur ratusan tahun. Kemungkinan berasal dari kalung atau ornamen kuno./Beach .1/Item 1 462" #!String
+    119: "Bone Flute/100/-300/Arch/Suling Tulang/Instrumen purba yang diukir dari tulang hewan. Mengeluarkan suara mengerikan./Mountain .01 Forest .01 UndergroundMine .02 Town .005/Recipe 2 Flute_Block 150" #!String
+    120: "Prehistoric Handaxe/50/-300/Arch/Kapak Prasejarah/Salah satu alat yang pertama kali diciptakan manusia./Mountain .05 Forest .05 BusStop .05/Item 1 294" #!String
+    121: "Dwarvish Helm/100/-300/Arch/Helm Dwarf/Salah satu helm yang di pakai kawanan dwarf. Kulit besinya bisa melindungi kepala dari jatuhan batu./UndergroundMine .01/Debris 1 50 0" #!String
+    122: "Dwarf Gadget/200/-300/Arch/Gadget Dwarf/Salah satu teknologi canggih dwarf. Masih berbunyi dan menyala, tapi kamu tidak tahu cara menggunakannya./UndergroundMine .001/Money 1 500" #!String
+    123: "Ancient Drum/100/-300/Arch/Drum Purba/Drum yang terbuat dari kayu dan kulit hewan. Menghasilkan suara rendah dan bergema./BusStop .01 Forest .01 UndergroundMine .02 Town .005/Recipe 2 Drum_Block 300" #!String
+    124: "Golden Mask/500/-300/Arch/Topeng Emas/Topeng emas aneh, dulunya mungkin digunakan untuk ritual tertentu. Terdapat permata ungu di dahinya./Desert .04/Money 1 1000" #!String
+    125: "Golden Relic/250/-300/Arch/Pusaka Emas/Lempengan emas yang di depannya terdapat huruf herioglif./Desert .08/Debris 1 40 6" #!String
+    126: "Strange Doll/1000/-300/Arch/Boneka Aneh/???/Farm .001 Town .001 Mountain .001 Forest .001 BusStop .001 Beach .001 UndergroundMine .001/Item 1 126" #!String
+    127: "Strange Doll/1000/-300/Arch/Boneka Aneh/???/Farm .001 Town .001 Mountain .001 Forest .001 BusStop .001 Beach .001 UndergroundMine .001/Item 1 127" #!String
+    128: "Pufferfish/200/-40/Fish -4/Pufferfish/Menggembung saat terancam./Day^Summer" #!String
+    129: "Anchovy/30/5/Fish -4/Anchovy/Ikan kecil yang biasa ditemukan di laut./Day Night^Spring Fall" #!String
+    130: "Tuna/100/15/Fish -4/Tuna/Ikan besar yang hidup di laut./Day^Summer Winter" #!String
+    131: "Sardine/40/5/Fish -4/Sardine/Ikan yang umum di laut./Day^Spring Summer Fall Winter" #!String
+    132: "Bream/45/5/Fish -4/Bream/Ikan sungai yang biasa aktif saat malam./Night^Spring Summer Fall Winter" #!String
+    136: "Largemouth Bass/100/15/Fish -4/Largemouth Bass/Ikan yang biasa di temuakan di danau./Day^Spring Summer Fall Winter" #!String
+    137: "Smallmouth Bass/50/10/Fish -4/Smallmouth Bass/Ikan air tawar yang sensitif dengan polusi./Day Night^Spring Fall" #!String
+    138: "Rainbow Trout/65/10/Fish -4/Rainbow Trout/Ikan air tawar dengan warna yang indah./Day^Summer" #!String
+    139: "Salmon/75/15/Fish -4/Salmon/Ikan yang biasa berenang ke hulu sungai untuk bertelur./Day^Fall" #!String
+    140: "Walleye/105/12/Fish -4/Walleye/Ikan air tawar yang biasa ditemukan saat malam./Night^Fall Winter" #!String
+    141: "Perch/55/10/Fish -4/Perch/Ikan air tawar yang aktif saat musim dingin./Day Night^Winter" #!String
+    142: "Carp/30/5/Fish -4/Carp/Ikan yang umum di kolam./Day Night^Spring Summer Fall" #!String
+    143: "Catfish/200/20/Fish -4/Catfish/Ikan yang biasa di aliran sungai./Day^Spring Fall Winter" #!String
+    144: "Pike/100/15/Fish -4/Pike/Ikan air tawar yang agak sulit ditangkap./Day Night^Summer Winter" #!String
+    145: "Sunfish/30/5/Fish -4/Sunfish/Ikan yang umun di sungai./Day^Spring Summer" #!String
+    146: "Red Mullet/75/10/Fish -4/Red Mullet/Ikan yang biasa dijadikan peliharaan./Day^Summer Winter" #!String
+    147: "Herring/30/5/Fish -4/Herring/Ikan yang umum di laut./Day Night^Spring Winter" #!String
+    148: "Eel/85/12/Fish -4/Belut/Ikan yang pipih dan licin./Night^Spring Fall" #!String
+    149: "Octopus/150/-300/Fish -4/Gurita/Mahluk yang pintar dan misterius./Day^Summer" #!String
+    150: "Red Snapper/50/10/Fish -4/Red Snapper/Ikan yang populer dengan warna merahnya./Day^Summer Fall Winter" #!String
+    151: "Squid/80/10/Fish -4/Cumi-Cumi/Mahluk laut dangkal yang bisa tumbuh sangat besar./Day^Winter" #!String
+    152: "Seaweed/20/5/Fish/Rumput Laut/Bisa digunakan untuk memasak./Day Night^Spring Summer Fall Winter" #!String
+    153: "Green Algae/15/5/Fish/Alga Hijau/Ini sungguh berlendir./Day Night^Spring Summer Fall Winter" #!String
+    154: "Sea Cucumber/75/-10/Fish -4/Teripang Laut/Mahluk licin yang biasa ditemukan di laut dangkal./Day^Fall Winter" #!String
+    155: "Super Cucumber/250/50/Fish -4/Teripang Super/Teripang laut berwarna ungu yang langka./Night^Summer Fall" #!String
+    156: "Ghostfish/45/15/Fish -4/Ghostfish/Ikan buta pucat yang biasa ditemukan di Danau dalam gua./Day Night^Spring Summer Fall Winter" #!String
+    157: "White Algae/25/8/Fish/Alga Putih/Ini sangat berlendir./Day Night^Spring Summer Fall Winter" #!String
+    158: "Stonefish/300/-300/Fish -4/Stonefish/Ikan aneh yang berbentuk seperti batu./Day Night^Spring Summer Fall Winter" #!String
+    159: "Crimsonfish/1500/15/Fish -4/Crimsonfish/Ikan yang hidup di laut dan bertelur saat musim panas./Day^Winter" #!String
+    160: "Angler/900/10/Fish -4/Angler/Ikan yang menggunakan lampu di dahinya untuk memancing mangsa./Day Night^Spring Summer Fall Winter" #!String
+    161: "Ice Pip/500/15/Fish -4/Ice Pip/Ikan langka yang bisa bertahan di suhu yang sangat dingin./Day Night^Spring Summer Fall Winter" #!String
+    162: "Lava Eel/700/20/Fish -4/Belut Lava/Ikan yang bisa bertahan di aliran lava./Day Night^Spring Summer Fall Winter" #!String
+    163: "Legend/5000/200/Fish -4/Legend/Raja dari semua ikan! Konon ikan ini tidak pernah ditangkap sebelumnya./Day^Winter" #!String
+    164: "Sandfish/75/5/Fish -4/Sandfish/Ikan yang bisa bersembunyi dengan kamuflase./Day Night^Spring Summer Fall Winter" #!String
+    165: "Scorpion Carp/150/-50/Fish -4/Scorpion Carp/Ikan Carb biasa dengan sengat tajam./Day Night^Spring Summer Fall Winter" #!String
+    166: "Treasure Chest/5000/-300/Basic/Peti Harta/Wah, isinya penuh harta! Harganya pasti mahal./Day Night^Spring Summer Fall Winter" #!String
+    167: "Joja Cola/25/5/Fish -20/Joja Cola/Produk unggulan perusahaan Joja./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    168: "Trash/0/-300/Fish -20/Sampah/Cuman sampah./Day Night^Spring Summer Fall Winter" #!String
+    169: "Driftwood/0/-300/Fish -20/Kayu Apung/Sebatang kayu yang di dapat dari laut./Day Night^Spring Summer Fall Winter" #!String
+    170: "Broken Glasses/0/-300/Fish -20/Kacamata Usang/Sepertinya seseorang kehilangan kacamatanya. Lensanya rusak./Day Night^Spring Summer Fall Winter" #!String
+    171: "Broken CD/0/-300/Fish -20/CD Rusak/CD trial JojaNet 2.0. Pasti mereka membuat jutaan dari CD ini./Day Night^Spring Summer Fall Winter" #!String
+    172: "Soggy Newspaper/0/-300/Fish -20/Koran Basah/Sampah./Day Night^Spring Summer Fall Winter" #!String
+    174: "Large Egg/95/15/Basic -5/Telur Besar/Telur putih besar!" #!String
+    176: "Egg/50/10/Basic -5/Telur/Telur ayam berwarna putih." #!String
+    178: "Hay/0/-300/Basic/Jerami/Rumput kering untuk pakan hewan." #!String
+    180: "Egg/50/10/Basic -5/Telur/Telur ayam berwarna coklat." #!String
+    182: "Large Egg/95/15/Basic -5/Telur Besar/Telur coklat besar!" #!String
+    184: "Milk/125/15/Basic -6/Susu/Sebotol susu sapi./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    186: "Large Milk/190/20/Basic -6/Susu Besar/Sebotol besar susu sapi./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    188: "Green Bean/40/10/Basic -75/Kacang Hijau/kacang segar yang renyah." #!String
+    190: "Cauliflower/175/30/Basic -75/Kembang Kol/Meski berwarna pucat sayur ini penuh dengan nutrisi." #!String
+    192: "Potato/80/10/Basic -75/Kentang/Umbi-umbian yang biasa dikembangbiakkan." #!String
+    194: "Fried Egg/35/20/Cooking -7/Telur Goreng/Telur mata sapi./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    195: "Omelet/125/40/Cooking -7/Omelet/Ini sangat lembut./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    196: "Salad/110/45/Cooking -7/Salad/Salad hijau yang menyehatkan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    197: "Cheese Cauliflower/300/55/Cooking -7/Kol Keju/Aromanya sungguh lezat!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    198: "Baked Fish/100/30/Cooking -7/Ikan Bakar/Ikan yang dibakar dengan rempah-rempah./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    199: "Parsnip Soup/120/34/Cooking -7/Sub Ubi/Segar dan menyehatkan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    200: "Vegetable Medley/120/66/Cooking -7/Sayur Capcai/Sangat bernutrisi./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    201: "Complete Breakfast/350/80/Cooking -7/Paket Lengkap Sarapan/Kau merasa siap untuk menghadapi dunia!/food/2 0 0 0 0 0 0 50 0 0 0/600" #!String
+    202: "Fried Calamari/150/32/Cooking -7/Cumi Goreng/Ini sangat kenyal./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    203: "Strange Bun/225/40/Cooking -7/Roti Aneh/Apa isinya?/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    204: "Lucky Lunch/250/40/Cooking -7/Bekal Hoki/Makanan kecil spesial./food/0 0 0 0 3 0 0 0 0 0 0/960" #!String
+    205: "Fried Mushroom/200/54/Cooking -7/Jamur Goreng/Lezat dan aromatik./food/0 0 0 0 0 0 0 0 0 0 0 2/600" #!String
+    206: "Pizza/300/60/Cooking -7/Pizza/Makanan populer yang bisa dimakan kapan saja./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    207: "Bean Hotpot/100/50/Cooking -7/Kacang Rebus/Tak diragukan lagi, makanan ini menyehatkan./food/0 0 0 0 0 0 2 0 0 0 0/600" #!String
+    208: "Glazed Yams/200/80/Cooking -7/Manisan Ubi/Manis dan memuaskan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    209: "Carp Surprise/150/36/Cooking -7/Carp Kejutan/Lunak dan berminyak./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    210: "Hashbrowns/120/36/Cooking -7/Hashbrowns/Renyah dengan warna coklat keemasan!/food/1 0 0 0 0 0 0 0 0 0 0/480" #!String
+    211: "Pancakes/80/36/Cooking -7/Pancake/Pancake yang lembut dan mengembang./food/0 0 0 0 0 2 0 0 0 0 0/960" #!String
+    212: "Salmon Dinner/300/50/Cooking -7/Salmon Dinner/Perasan lemon membuatnya semakin spesial./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    213: "Fish Taco/500/66/Cooking -7/Taco Ikan/Beraroma lezat./food/0 2 0 0 0 0 0 0 0 0 0/600" #!String
+    214: "Crispy Bass/150/36/Cooking -7/Ikan Krispi/Wah, campuran tepungnya terlihat sempurna./food/0 0 0 0 0 0 0 0 64 0 0/600" #!String
+    215: "Pepper Poppers/200/52/Cooking -7/Pepper Poppers/Cabai berisi keju yang dibalut dengan tepung./food/2 0 0 0 0 0 0 0 0 1 0/600" #!String
+    216: "Bread/60/20/Cooking -7/Roti/Roti panjang dan keras./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    218: "Tom Kha Soup/250/70/Cooking -7/Sup Tom Kha/Rasanya luar biasa!/food/2 0 0 0 0 0 0 30 0 0 0/600" #!String
+    219: "Trout Soup/100/40/Cooking -7/Sup Ikan Trout/Sangat asin./food/0 1 0 0 0 0 0 0 0 0 0/400" #!String
+    220: "Chocolate Cake/200/60/Cooking -7/Kue Coklat/Kaya rasa manis dengan lapisan gula yang tebal./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    221: "Pink Cake/480/100/Cooking -7/Kue Pink/Ada lilin berbentuk hati di atasnya./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    222: "Rhubarb Pie/400/86/Cooking -7/Pai Rhubarb/Hmm, rasanya manis dan tajam!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    223: "Cookie/140/36/Cooking -7/Kue Kering/Sangat renyah./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    224: "Spaghetti/120/30/Cooking -7/Spaghetti/Favorit setiap orang./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    225: "Fried Eel/120/30/Cooking -7/Belut Goreng/Berminyak tapi penuh akan rasa./food/0 0 0 0 1 0 0 0 0 0 0/600" #!String
+    226: "Spicy Eel/175/46/Cooking -7/Belut Pedas/Hati-hati! Rasanya sangat pedas!./food/0 0 0 0 1 0 0 0 0 1 0/600" #!String
+    227: "Sashimi/75/30/Cooking -7/Sashimi/Ikan mentah yang diiris tipis./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    228: "Maki Roll/220/40/Cooking -7/Maki Gulung/Ikan dan nasi yang dibalut dengan rumput laut./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    229: "Tortilla/50/20/Cooking -7/Tortilla/Bisa diolah dulu atau langsung dimakan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    230: "Red Plate/400/96/Cooking -7/Red Plate/Penuh dengan antioksidan./food/0 0 0 0 0 0 0 50 0 0 0/300" #!String
+    231: "Eggplant Parmesan/200/70/Cooking -7/Parmesan Terong/Lembut, beraroma tajam, dan lezat./food/0 0 1 0 0 0 0 0 0 0 3/400" #!String
+    232: "Rice Pudding/260/46/Cooking -7/Puding Beras/Lembut, manis, dan enak saat dimakan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    233: "Ice Cream/120/40/Cooking -7/Es Krim/Siapa pun suka dengan ini./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    234: "Blueberry Tart/150/50/Cooking -7/Tart Bluberi/Lembut dan menyegarkan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    235: "Autumn's Bounty/350/88/Cooking -7/Autumn's Bounty/Rasa yang mewakili musim gugur./food/0 0 0 0 0 2 0 0 0 0 2/660" #!String
+    236: "Pumpkin Soup/300/80/Cooking -7/Sup Labu/Makanan favorit musim gugur./food/0 0 0 0 2 0 0 0 0 0 2/660" #!String
+    237: "Super Meal/220/64/Cooking -7/Jamuan Super/Makanan yang sangat menyehatkan./food/0 0 0 0 0 0 0 40 0 1 0/300" #!String
+    238: "Cranberry Sauce/120/50/Cooking -7/Selai Cranberi/Manisan yang lezat./food/0 0 2 0 0 0 0 0 0 0 0/300" #!String
+    239: "Stuffing/165/68/Cooking -7/Stuffing/Ahh... aroma hangat roti./food/0 0 0 0 0 0 0 0 0 0 2/480" #!String
+    240: "Farmer's Lunch/150/80/Cooking -7/Bekal Petani/Makanan yang membuatmu bertenaga./food/3 0 0 0 0 0 0 0 0 0 0/480" #!String
+    241: "Survival Burger/180/50/Cooking -7/Survival Burger/Cemilan kecil untuk para petualang./food/0 0 0 0 0 3 0 0 0 0 0/480" #!String
+    242: "Dish O' The Sea/220/60/Cooking -7/Dish O' The Sea/Makanan yang membuatmu tetap hangat di laut./food/0 3 0 0 0 0 0 0 0 0 0/480" #!String
+    243: "Miner's Treat/200/50/Cooking -7/Miner's Treat/Makanan penambah energi./food/0 0 3 0 0 0 0 0 32 0 0/480" #!String
+    244: "Roots Platter/100/50/Cooking -7/Roots Platter/Makanan para penambang./food/0 0 0 0 0 0 0 0 0 0 0 3/480" #!String
+    245: "Sugar/50/10/Basic/Gula/Menambah manis pada makanan. Terlalu banayk tak baik untuk kesehatan." #!String
+    246: "Wheat Flour/50/5/Basic/Tepung Gandum/bahan masak yang berasal dari tumbukan biji gandum." #!String
+    247: "Oil/100/5/Basic/Minyak/Minyak masak serba guna./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    248: "Garlic/60/8/Basic -75/Bawang Putih/Penambah rasa pada makanan." #!String
+    250: "Kale/110/20/Basic -75/Kale/Tumbuhan lunak yang cocok dijadikan sup atau osengan." #!String
+    252: "Rhubarb/220/-300/Basic -79/Rhubarb/Batangnya pedas, tapi enak dibuat untuk pencuci mulut." #!String
+    254: "Melon/250/45/Basic -79/Melon/Buah musim panas yang manis." #!String
+    256: "Tomato/60/8/Basic -75/Tomat/Cocok dijadikan untuk berbagai masakan." #!String
+    257: "Morel/150/8/Basic -81/Morel/Dicari karena rasanya yang unik." #!String
+    258: "Blueberry/50/10/Basic -79/Bluberi/Buah yang banyak mengandung nutrisi untuk kesehatan." #!String
+    259: "Fiddlehead Fern/90/10/Basic -75/Tumbuhan Paku/Tunas mudanya enak untuk dimakan." #!String
+    260: "Hot Pepper/40/5/Basic -79/Cabai/Pedas dan sedikit rasa manis." #!String
+    262: "Wheat/25/-300/Basic -75/Gandum/Bebijian serbaguna. Cocok untuk membuat roti dan kue." #!String
+    264: "Radish/90/18/Basic -75/Lobak/Akar sayuran dengan rasa pedas saat dimakan mentah." #!String
+    266: "Red Cabbage/260/30/Basic -75/Kol Merah/Biasa dimasak menjadi salad. Warnanya tergantung dari kondisi tanah." #!String
+    268: "Starfruit/750/50/Basic -79/Belimbing/Buah yang sangat berair yang tumbuh di cuaca panas dan lembab. Rasanya manis dan sedikit asam." #!String
+    270: "Corn/50/10/Basic -75/Jagung/Sayuran manis favorit musim panas." #!String
+    272: "Eggplant/60/8/Basic -75/Terong/Bernutrisi dan penuh akan rasa. Enak saat digoreng ataupun di tumis." #!String
+    274: "Artichoke/160/12/Basic -75/Artichoke/Pucuk tanaman thistle. Daun berdurinya yang menyelimuti isinya." #!String
+    276: "Pumpkin/320/-300/Basic -75/Labu/Buah favorit musim gugur, kulitnya biasa digunakan untuk dekorasi festival." #!String
+    278: "Bok Choy/80/10/Basic -75/Bok Choy/Sayuran hijau penuh serat yang enak dan menyehatkan." #!String
+    280: "Yam/160/18/Basic -75/Ubi Jalar/Umbi yang banyak digunakan dalam olahan masakan." #!String
+    281: "Chanterelle/160/30/Basic -81/Chanterelle/Jamur enak dengan rasa sedikit pedas." #!String
+    282: "Cranberries/75/15/Basic -79/Cranberi/Buah yang biasa dikonsumsi saat musim dingin." #!String
+    283: "Holly/80/-15/Basic -81/Holly/Daun dan beri merah yang populer sebagai dekorasi musim dingin." #!String
+    284: "Beet/100/12/Basic -75/Bit Merah/Umbi-umbian yang manis. Cocok dimasak menjadi salad." #!String
+    286: "Cherry Bomb/50/-300/Crafting -8/Bom Ceri/Hati-hati! Menghasilkan ledakan kecil!" #!String
+    287: "Bomb/50/-300/Crafting -8/Bom/Awas! Menghasilkan ledakan." #!String
+    288: "Mega Bomb/50/-300/Crafting -8/Mega Bom/Menghasilkan ledakan dahyat. Gunakan dengan sangat hati-hati." #!String
+    290: "Stone/50/-300/Basic/batu/..." #!String
+    294: "Twig/1/-300/Crafting/Ranting/..." #!String
+    295: "Twig/1/-300/Crafting/Ranting/..." #!String
+    296: "Salmonberry/5/10/Basic -79/Salmonberi/Beri musim semi dengan rasa hutan." #!String
+    297: "Grass Starter/50/-300/Crafting/Akar Rumput/taruh di kebunmu untuk menumbuhkan rumput liar." #!String
+    298: "Hardwood Fence/10/-300/Crafting -8/Pagar Kayu Keras/Pagar yang paling kokoh." #!String
+    299: "Amaranth Seeds/35/-300/Seeds -74/Bibit Amaranth/Tanam saat musim gugur. Butuh 7 hari untuk tumbuh. Panen dengan sabit." #!String
+    300: "Amaranth/150/20/Basic -75/Amaranth/Biji-bijian ungu yang dibudidayakan sejak zaman purba." #!String
+    301: "Grape Starter/30/-300/Seeds -74/Tunas Anggur/Tanam saat musim gugur. Butuh 10 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    302: "Hops Starter/30/-300/Seeds -74/Tunas Hops/Tanam saat musim panas. Butuh 11 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    303: "Pale Ale/300/20/Basic -26/Pale Ale/Minumlah secukupnya./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    304: "Hops/25/18/Basic -75/Hops/Bunga yang pahit biasa dipakai untu membuat bir." #!String
+    305: "Void Egg/65/15/Basic -5/Telur Void/Telur hitam pekat dengan bintik kemerahan. hangat saat disentuh." #!String
+    306: "Mayonnaise/190/-300/Basic -26/Mayones/Sepertinya bisa dioles." #!String
+    307: "Duck Mayonnaise/375/-300/Basic -26/Mayones Bebek/mayones kuning, kaya akan rasa." #!String
+    308: "Void Mayonnaise/275/-30/Basic -26/Mayones Void/Adonan hitam pekat yang berbau seperti rambut terbakar." #!String
+    309: "Acorn/20/-300/Crafting -74/Bibit Ek/Taruh di kebunmu untuk menanam pohon ek." #!String
+    310: "Maple Seed/5/-300/Crafting -74/Bibit Maple/Taruh di kebunmu untuk menanam pohon maple." #!String
+    311: "Pine Cone/5/-300/Crafting -74/Bibit Pinus/Taruh di kebunmu untuk menanam pohon pinus." #!String
+    313: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    314: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    315: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    316: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    317: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    318: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    319: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    320: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    321: "Weeds/50/-300/Crafting/Rumput/..." #!String
+    322: "Wood Fence/1/-300/Crafting -8/Pagar Kayu/Digunakan untuk membatasi hewan dan tumbuhan!" #!String
+    323: "Stone Fence/2/-300/Crafting -8/Pagar Batu/Bertahan lebih lama dari pagar kayu." #!String
+    324: "Iron Fence/6/-300/Crafting -8/Pagar Besi/Bertahan lebih lama dari pagar batu." #!String
+    325: "Gate/4/-300/Crafting -8/Gerbang/Gerbang untuk pagar." #!String
+    326: "Dwarvish Translation Guide/50/-300/Crafting -8/Panduan Bahasa Dwarf/Mengajarkanmu bahasa dwarf." #!String
+    328: "Wood Floor/1/-300/Crafting -24/Lantai Kayu/Taruh di tanah untuk membuat jalan atau dekorasi." #!String
+    329: "Stone Floor/1/-300/Crafting -24/Lantai Batu/Taruh di tanah untuk membuat jalan atau dekorasi." #!String
+    330: "Clay/20/-300/Basic -16/Tanah Liat/Digunakan untuk konstruksi." #!String
+    331: "Weathered Floor/1/-300/Crafting -24/Lantai Lapuk/Taruh di tanah untuk membuat jalan atau dekorasi." #!String
+    333: "Crystal Floor/1/-300/Crafting -24/Lantai Kristal/Taruh di tanah untuk membuat jalan atau dekorasi." #!String
+    334: "Copper Bar/60/-300/Basic -15/Batangan Tembaga/Batangan tembaga murni." #!String
+    335: "Iron Bar/120/-300/Basic -15/Batangan Besi/Batangan besi murni." #!String
+    336: "Gold Bar/250/-300/Basic -15/Batangan Emas/Batangan emas murni." #!String
+    337: "Iridium Bar/1000/-300/Basic -15/Batangan Iridium/Batangan iridium murni." #!String
+    338: "Refined Quartz/50/-300/Basic -15/Quartz Halus/Logam quartz yang telah dihaluskan." #!String
+    340: "Honey/100/-300/Basic -26/Madu/Cairan manis yang di produksi oleh lebah." #!String
+    341: "Tea Set/200/-300/Basic -24/Perangkat Teh/Satu set perangkat minum yang indah." #!String
+    342: "Pickles/100/-300/Basic -26/Acar/Setoples acar buatan rumah." #!String
+    343: "Stone/100/-300/Basic/Batu/Batu." #!String
+    344: "Jelly/160/-300/Basic -26/Jeli/Kenyal." #!String
+    346: "Beer/200/20/Basic -26/Bir/Minumlah secukupnya./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    347: "Rare Seed/200/-300/Seeds -74/Bibit Langka/Tanam saat musim gugur. Butuh waktu satu musim untuk tumbuh." #!String
+    348: "Wine/400/20/Basic -26/Anggur Merah/Minumlah secukupnya./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    349: "Energy Tonic/500/200/Crafting/Obat Penambah Energi/Mengembalikan banyak energi./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    350: "Juice/150/30/Basic -26/Jus/Minuman manis bernutrisi./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    351: "Muscle Remedy/500/20/Crafting/Suplemen Otot/Saat kamu kamu kelelahan, minum ini untuk menghilangkan rasa lelah./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    368: "Basic Fertilizer/2/-300/Basic -19/Pupuk Biasa/Meningkatkan sedikit kualitas tanah, menambah kesempatanmu mendapatkan tanaman berkualitas. Campur ke tanah yang telah diratakan." #!String
+    369: "Quality Fertilizer/10/-300/Basic -19/Pupuk Berkualitas/Meningkatkan kualitas tanah, menambah kesempatanmu mendapatkan tanaman berkualitas. Campur ke tanah yang telah diratakan." #!String
+    370: "Basic Retaining Soil/4/-300/Basic -19/Penahan Tanah Standar/Menjaga tanah tetap basah dikemudian hari. Campur ke tanah yang telah di ratakan." #!String
+    371: "Quality Retaining Soil/5/-300/Basic -19/Penahan Tanah Berkualitas/Menjaga tanah tetap basah di kemudian hari. Dicampur dengan lahan garapan." #!String
+    372: "Clam/50/-300/Basic -23/Kerang/Ada sesuatu yang pernah hidup di sini." #!String
+    373: "Golden Pumpkin/2500/-300/Basic/Labu Emas/Mahal, tapi tidak ada gunanya." #!String
+    376: "Poppy/140/18/Basic -80/Poppy/Selain bunganya yang indah dan penuh warna, Poppy banyak digunakan dalam kuliner dan kesehatan." #!String
+    378: "Copper Ore/5/-300/Basic -15/Logam Tembaga/Mineral umum yang bisa dilebur menjadi batangan." #!String
+    380: "Iron Ore/10/-300/Basic -15/Logam Besi/Mineral cukup umum yang bisa dilebur menjadi batangan." #!String
+    382: "Coal/15/-300/Basic -15/Batu Bara/Batu yang mudah terbakar, digunakan untuk crafting dan peleburan" #!String
+    384: "Gold Ore/25/-300/Basic -15/Logam Emas/Mineral berharga yang bisa dilebur menjadi batangan." #!String
+    386: "Iridium Ore/100/-300/Basic -15/Logam Iridium/Mineral langka yang masih banyak yang belum diketahui kegunaannya. Bisa dilebur menjadi batangan." #!String
+    388: "Wood/2/-300/Basic -16/Kayu/Material keras dan fleksibel dengan banyak kegunaan." #!String
+    390: "Stone/2/-300/Basic -16/Batu/Material yang sering digunakan untuk Crafting dan Konstruksi." #!String
+    392: "Nautilus Shell/120/-300/Basic -23/Cangkang Nautilus/Cangkang mahluk purba." #!String
+    393: "Coral/80/-300/Basic -23/Karang/Sebuah koloni mahluk kecil menyatu membentuk struktur indah ini." #!String
+    394: "Rainbow Shell/300/-300/Basic -23/Cangkang Pelangi/Cangkang yang sangat indah." #!String
+    395: "Coffee/150/1/Crafting/Kopi/Aromanya sangat nikmat. Minuman ini akan menyegarkanmu./drink/0 0 0 0 0 0 0 0 0 1 0/120" #!String
+    396: "Spice Berry/80/10/Basic -79/Spice Berry/Aroma tajamnya bisa memenuhi udara." #!String
+    397: "Sea Urchin/160/-300/Basic -23/Bulu Babi/Mahluk lambat dan berduri, banyak orang yang mengkonsumsi mahluk ini." #!String
+    398: "Grape/80/15/Basic -79/Anggur/Buah yang sangat manis." #!String
+    399: "Spring Onion/8/5/Basic -81/Bawang Musim Semi/Tumbuh saat musim semi." #!String
+    400: "Strawberry/120/20/Basic -79/Stroberi/Buah manis dan berair dengan warna merahnya yang menarik." #!String
+    401: "Straw Floor/1/-300/Crafting -24/Lantai Jerami/Taruh di tanah untuk membuat jalan atau untuk dekorasi." #!String
+    402: "Sweet Pea/50/0/Basic -80/Sweet Pea/Bunga musim panas yang harum." #!String
+    403: "Field Snack/20/18/Crafting/Camilan Lapangan/Camilan kecil untuk mengisi perut lapar." #!String
+    404: "Common Mushroom/40/15/Basic -81/Jamur/Lembut dan sedikit rasa pedas." #!String
+    405: "Wood Path/1/-300/Crafting -24/Pijakan Kayu/Taruh di tanah untuk membuat jalan atau untuk dekorasi." #!String
+    406: "Wild Plum/80/10/Basic -79/Plum Liar/Asam dan berair dengan aroma yang harum." #!String
+    407: "Gravel Path/1/-300/Crafting -24/Pijakan Tanah/Taruh di tanah untuk membuat jalan atau untuk dekorasi." #!String
+    408: "Hazelnut/90/12/Basic -81/Hazelnut/Hazelnut ini sangat besar!" #!String
+    409: "Crystal Path/1/-300/Crafting -24/Pijakan Kristal/Taruh di tanah untuk membuat jalan atau untuk dekorasi." #!String
+    410: "Blackberry/20/10/Basic -79/Blackberi/Buah musim gugur." #!String
+    411: "Cobblestone Path/1/-300/Crafting -24/Pijakan Batu Besar/Taruh di tanah untuk membuat jalan atau untuk dekoras." #!String
+    412: "Winter Root/70/10/Basic -81/Akar Musim Dingin/Sejenis umbi musim dingin." #!String
+    413: "Blue Slime Egg/1750/-300/Basic/Telur Slime Biru/Bisa ditetaskan lewat Inkubator Slime." #!String
+    414: "Crystal Fruit/150/25/Basic -79/Buah Kristal/Buah lezat yang bisa ditemukan di sekitar salju." #!String
+    415: "Stepping Stone Path/1/-300/Crafting -24/Pijakan Batu Loncatan/Taruh di tanah untuk membuat jalan atau untuk dekorasi." #!String
+    416: "Snow Yam/100/12/Basic -81/Ubi Salju/Ubi kecil yang terkubur di bawah salju." #!String
+    417: "Sweet Gem Berry/3000/-300/Basic -17/Sweet Gem Beri/Buah termanis yang kamu pernah rasakan." #!String
+    418: "Crocus/60/0/Basic -80/Bunga Krokus/Satu-satunya bunga yang tumbuh saat musim salju." #!String
+    419: "Vinegar/100/5/Basic/Cuka/cairan fermentasi yang digunakan untuk bumbu masakan./drink" #!String
+    420: "Red Mushroom/75/-20/Basic -81/Jamur Merah/Jamur berbintik yang biasa ditemukan di dalam gua." #!String
+    421: "Sunflower/80/18/Basic -80/Bunga Matahari/Banyak yang mengira bunga ini mekar mengarah ke matahari." #!String
+    422: "Purple Mushroom/250/50/Basic -81/Jamur Ungu/Jamur langka yang biasa ditemukan di dalam gua." #!String
+    423: "Rice/100/5/Basic/Beras/Makanan pokok yang biasa dihidangkan dengan sayuran." #!String
+    424: "Cheese/200/50/Basic -26/Keju/Ini keju." #!String
+    425: "Fairy Seeds/100/-300/Seeds -74/Bibit Fairy/Tanam saat musim gugur. Butuh 12 hari untuk mekar. Memiliki banyak warna." #!String
+    426: "Goat Cheese/375/50/Basic -26/Keju Kambing/Keju lembut yang terbuat dari susu kambing." #!String
+    427: "Tulip Bulb/10/-300/Seeds -74/Tulip Bulb/Tanam saat musim semi. Butuh 6 untuk mekar. Memiliki banyak warna." #!String
+    428: "Cloth/470/-300/Basic -26/Kain/Segulung kain wool yang lembut." #!String
+    429: "Jazz Seeds/15/-300/Seeds -74/Bibit Jazz/Tanam saat musim semi. Butuh 7 hari untuk mekar." #!String
+    430: "Truffle/625/5/Basic -17/Jamur Truffle/Jamur dengan rasa yang unik." #!String
+    431: "Sunflower Seeds/20/-300/Seeds -74/Bibit Bunga Matahari/Tanam saat musim panas atau musim gugur. Butuh 8 hari untuk mekar. Menghasilkan banyak biji saat dipanen." #!String
+    432: "Truffle Oil/1065/15/Basic -26/Minyak Truffle/Bahan masak kelas tinggi./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    433: "Coffee Bean/15/-300/Seeds -74/Biji Kopi/Tanam saat musim semi atau musim panas. Taruh lima biji ini ke dalam keg untuk membuat secangkir kopi." #!String
+    434: "Stardrop/7777/100/Crafting/Stardrop/Buah misterius yang memberi kekuatan pada pemakannya. Rasanya seperti mimpi... memberi rasa yang luar biasa dan sulit diceritakan ke orang lain." #!String
+    436: "Goat Milk/225/25/Basic -6/Susu Kambing/Susu Kambing./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    437: "Red Slime Egg/2500/-300/Basic/Telur Slime Merah/Bisa ditetaskan lewat Inkubator Slime." #!String
+    438: "L. Goat Milk/345/35/Basic -6/Susu Kambung Besar/Sebotol susu kambing./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    439: "Purple Slime Egg/5000/-300/Basic/Telur Slime Ungu/Bisa ditetaskan lewat Inkubator Slime." #!String
+    440: "Wool/340/-300/Basic -18/Wol/Bulu yang lembut dan hangat." #!String
+    441: "Explosive Ammo/20/-300/Basic/Peluru Ledak/Tembakkan dengan ketapel." #!String
+    442: "Duck Egg/95/15/Basic -5/Telur Bebek/Telurnya masih hangat." #!String
+    444: "Duck Feather/125/-300/Basic -18/Bulu Bebek/Warnanya indah." #!String
+    446: "Rabbit's Foot/565/-300/Basic -18/Kaki Kelinci/Benda pembawa keberuntungan." #!String
+    449: "Stone Base/0/-300/asdf/Fondasi Batu/Blok batu standar." #!String
+    450: "Stone/0/-300/asdf/Batu/Batu." #!String
+    452: "Weeds/0/-300/asdf/Rumput/Sejumput rumput kering." #!String
+    453: "Poppy Seeds/50/-300/Seeds -74/Bibit Poppy/Tanam saat musim panas. Menghasilakn bunga merah cerah dalam 7 hari." #!String
+    454: "Ancient Fruit/550/-300/Basic -79/Buah Purba/Buah yang tumbuh sejak ribuan tahun." #!String
+    455: "Spangle Seeds/25/-300/Seeds -74/Bibit Spangle/Tanam saat musim panas. Butuh 8 hari untuk mekar. Memiliki banyak warna." #!String
+    456: "Algae Soup/100/30/Cooking -7/Sup Alga/Ini sedikit berlendir./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    457: "Pale Broth/150/50/Cooking -7/Kaldu Alga/Kaldu lezat dengan cita rasa pedas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    458: "Bouquet/100/-300/Basic/Buket Bunga/Hadiah sebagai tanda ketertarikan pada seseorang." #!String
+    459: "Mead/200/30/Basic -26/Madu Fermentasi/Minuman hasil fermentasi madu. Minumlah secukupnya./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    460: "Mermaid's Pendant/2500/-300/Basic/Kalung Duyung/Beri ini pada seseorang yang kamu ingin nikahi." #!String
+    461: "Decorative Pot/200/-300/Crafting/Bejana Hiasan/Replika bejana purba." #!String
+    463: "Drum Block/100/-300/Crafting/Blok Drum/Mengeluarkan suara drum saat diinjak." #!String
+    464: "Flute Block/100/-300/Crafting/Blok Suling/Mengeluarkan suara suling saat diinjak." #!String
+    465: "Speed-Gro/20/-300/Basic -19/Speed-Gro/Merangsang pertumbuhan tanaman. Meningkatkan kecepatan pertumbuhan tanaman sekitar 10%. Campurkan ke tanah yang telah diratakan." #!String
+    466: "Deluxe Speed-Gro/40/-300/Basic -19/Deluxe Speed-Gro/Merangsang pertumbuhan tanaman. Meningkatkan kecepatan pertumbuhan tanaman sekitar 25%. Campurkan ke tanah yang telah diratakan.." #!String
+    472: "Parsnip Seeds/10/-300/Seeds -74/Bibit Ubi Jalar/Tanam saat musim semi. Butuh 4 hari untuk tumbuh." #!String
+    473: "Bean Starter/30/-300/Seeds -74/Tunas Kacang/Tanam saat musim semi. Nutuh 10 hari untuk tumbuh, tetap berbuah setelah dipanen. Menghasilkan banyak buah saat panen." #!String
+    474: "Cauliflower Seeds/40/-300/Seeds -74/Bibit Kembang Kol/Tanam saat musim semi. Butuh 12 hari untuk tumbuh." #!String
+    475: "Potato Seeds/25/-300/Seeds -74/Bibit Kentang/Tanam saat musim semi. Butuh 6 hari untuk tumbuh, berkesempatan menghasilkan lebih dari satu kentang saat dipanen." #!String
+    476: "Garlic Seeds/20/-300/Seeds -74/Bibit Bawang Putih/Tanam saat musim semi. Butuh 4 hari untuk tumbuh." #!String
+    477: "Kale Seeds/35/-300/Seeds -74/Bibit Kale/Tanam saat musim semi. Butuh 6 hari untuk tumbuh. Panen dengan sabit." #!String
+    478: "Rhubarb Seeds/50/-300/Seeds -74/Bibit Rhubarb/Tanam saat musm semi. Butuh 13 hari untuk tumbuh." #!String
+    479: "Melon Seeds/40/-300/Seeds -74/Bibit Melon/Tanam saat musim panas. Butuh 12 hari untuk tumbuh." #!String
+    480: "Tomato Seeds/25/-300/Seeds -74/Bibit Tomat/Tanam saat musim panas. Butuh 11 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    481: "Blueberry Seeds/40/-300/Seeds -74/Bibit Bluberi/Tanam saat musim panas. Butuh 13 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    482: "Pepper Seeds/20/-300/Seeds -74/Bibit Cabai/Tanam saat musim panas. Butuh 5 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    483: "Wheat Seeds/5/-300/Seeds -74/Bibit Gandum/Tanam saat musim panas atau musim gugur. Butuh 4 hari untuk tumbuh. PAnen dengan sabit." #!String
+    484: "Radish Seeds/20/-300/Seeds -74/Bibit Lobak/Plant these in the summer. Butuh 5 hari untuk tumbuh." #!String
+    485: "Red Cabbage Seeds/50/-300/Seeds -74/Bibit Kol Merah/Tanam saat musim panas. Butuh 9 hari untuk tumbuh." #!String
+    486: "Starfruit Seeds/200/-300/Seeds -74/Bibit Belimbing/Tanam saat musim panas. Butuh 13 hari untuk tumbuh." #!String
+    487: "Corn Seeds/75/-300/Seeds -74/Bibit Jagung/Tanam saat musim panas atau musim gugur. Butuh 14 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    488: "Eggplant Seeds/10/-300/Seeds -74/Bibit Terong/Tanam saat musim gugur. Butuh 5 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    489: "Artichoke Seeds/15/-300/Seeds -74/Bibit Artichoke/Tanam saat musim gugur. Butuh 8 hari untuk tumbuh." #!String
+    490: "Pumpkin Seeds/50/-300/Seeds -74/Bibit Labu/Tanam saat musim gugur. Butuh 13 hari untuk tumbuh." #!String
+    491: "Bok Choy Seeds/25/-300/Seeds -74/Bibit Bok Choy/Tanam saat musim gugur. Butuh 4 hari untuk tumbuh." #!String
+    492: "Yam Seeds/30/-300/Seeds -74/Bibit Ubi Rambat/Tanam saat musim gugur. Butuh 10 hari untuk tumbuh." #!String
+    493: "Cranberry Seeds/120/-300/Seeds -74/Bibit Cranberi/Tanam saat musim gugur. Butuh 7 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    494: "Beet Seeds/10/-300/Seeds -74/Bibit Bit Merah/Tanam saat musim gugur. Butuh 6 hari untuk tumbuh." #!String
+    495: "Spring Seeds/35/-300/Seeds -74/Bibit Musim Semi/Campuran bibit tanaman liar musin semi." #!String
+    496: "Summer Seeds/55/-300/Seeds -74/Bibit Musim Panas/Campuran bibit tanaman liar musin panas." #!String
+    497: "Fall Seeds/45/-300/Seeds -74/Bibit Musim Gugur/Campuran bibit tanaman liar musin gugur." #!String
+    498: "Winter Seeds/30/-300/Seeds -74/Bibit Musim Dingin/Campuran bibit tanaman liar musin dingin." #!String
+    499: "Ancient Seeds/30/-300/Seeds -74/Bibit Purba/Apakah ini masih bisa tumbuh?" #!String
+    516: "Small Glow Ring/100/-300/Ring/Small Glow Ring/Memberi sedikit cahaya." #!String
+    517: "Glow Ring/200/-300/Ring/Glow Ring/Memberi cahaya." #!String
+    518: "Small Magnet Ring/100/-300/Ring/Small Magnet Ring/Menaikkan sedikit radius menarik barang." #!String
+    519: "Magnet Ring/200/-300/Ring/Magnet Ring/Menaikkan radius menarik barang." #!String
+    520: "Slime Charmer Ring/700/-300/Ring/Slime Charmer Ring/Mencegah serangan slimes." #!String
+    521: "Warrior Ring/1500/-300/Ring/Warrior Ring/Biasanya akan memberikan pemakai \"warrior energy\" setelah membunuh monster." #!String
+    522: "Vampire Ring/1500/-300/Ring/Vampire Ring/Menambah sedikit health setiap kali kamu membunuh monster." #!String
+    523: "Savage Ring/1500/-300/Ring/Savage Ring/Memberikan sedikit kecepatan setiap kali kamu membunuh monster." #!String
+    524: "Ring of Yoba/1500/-300/Ring/Ring of Yoba/Biasanya melindungi pemakai dari serangan monster." #!String
+    525: "Sturdy Ring/1500/-300/Ring/Sturdy Ring/Mengurangi setengah waktu efek negatifmu." #!String
+    526: "Burglar's Ring/1500/-300/Ring/Burglar's Ring/Kesempatan Monsters menjatuhkan barang lebih besar." #!String
+    527: "Iridium Band/2000/-300/Ring/Iridium Band/Bersinar, menarik benda, dan meningkatkan serangan sebesar 10%." #!String
+    528: "Jukebox Ring/200/-300/Ring/Jukebox Ring/Memainkan instrumen musik yang secara acak." #!String
+    529: "Amethyst Ring/200/-300/Ring/Amethyst Ring/Meningkatkan knockback sebesar 10%." #!String
+    530: "Topaz Ring/200/-300/Ring/Topaz Ring/Meningkatkan presisi senjata sebesar 10%." #!String
+    531: "Aquamarine Ring/400/-300/Ring/Aquamarine Ring/Meningkatkan kesempatan serangan kritikal sebesar 10%." #!String
+    532: "Jade Ring/400/-300/Ring/Jade Ring/Meningkatkan kekuatan serangan kritikal sebesar 10%." #!String
+    533: "Emerald Ring/600/-300/Ring/Emerald Ring/Meningkatkan kecepatan senjata sebanyak 10%." #!String
+    534: "Ruby Ring/600/-300/Ring/Ruby Ring/Meningkatkan kekuatan serangan sebanyak 10%." #!String
+    535: "Geode/50/-300/Basic/Geode/Pandai besi bisa memecah mineral ini untukmu./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 121" #!String
+    536: "Frozen Geode/100/-300/Basic/Geode Beku/Pandai besi bisa memecah mineral ini untukmu./541 544 545 546 550 551 559 560 561 564 567 572 573 577 123" #!String
+    537: "Magma Geode/150/-300/Basic/Geode Magma/Pandai besi bisa memecah mineral ini untukmu./539 540 543 547 553 554 562 563 565 570 575 578 122" #!String
+    538: "Alamite/150/-300/Minerals -12/Alamite/Mineral yang memiliki aura khusus menjadi benda favorit bagi pengkoleksi mineral." #!String
+    539: "Bixite/300/-300/Minerals -12/Bixite/Mineral metalik hitam yang dicari karena bentuknya yang kotak." #!String
+    540: "Baryte/50/-300/Minerals -12/Baryte/As melhores amostras lembram uma rosa no deserto." #!String
+    541: "Aerinite/125/-300/Minerals -12/Aerinite/Entah mengapa kritsl ini mengerluarkan cahaya." #!String
+    542: "Calcite/75/-300/Minerals -12/Calcite/Kristal kuning ini memiliki bintik bercahaya." #!String
+    543: "Dolomite/300/-300/Minerals -12/Dolomite/Biasa ditemukan di sekitar terumbu karang dan gunung bawah laut." #!String
+    544: "Esperite/100/-300/Minerals -12/Esperite/Kristal ini bersinar hijau terang ketika dipegang." #!String
+    545: "Fluorapatite/200/-300/Minerals -12/Fluorapatite/Sedikit ditemukan di gigi manusia." #!String
+    546: "Geminite/150/-300/Minerals -12/Geminite/Membentuk gabungan warna yang indah." #!String
+    547: "Helvite/450/-300/Minerals -12/Helvite/Tumbuh membentuk balok segitiga." #!String
+    548: "Jamborite/150/-300/Minerals -12/Jamborite/Kristal padat yang terlihat tak jelas." #!String
+    549: "Jagoite/115/-300/Minerals -12/Jagoite/Terbentuk dari banyak kristal kecil yang membuatnya berkilauan." #!String
+    550: "Kyanite/250/-300/Minerals -12/Kyanite/Permukaannya halus seperti kaca." #!String
+    551: "Lunarite/200/-300/Minerals -12/Lunarite/Kumpulan bola putih yang membentuk kristal." #!String
+    552: "Malachite/100/-300/Minerals -12/Malachite/Batu ornamen populer, digunakan untuk memahat dan membuat cat hijau." #!String
+    553: "Neptunite/400/-300/Minerals -12/Neptunite/Kristal hitam pekat yang bisa merefleksikan objek." #!String
+    554: "Lemon Stone/200/-300/Minerals -12/Lemon Stone/Konon katanya kristal ini adalah peninggalan para dwarf." #!String
+    555: "Nekoite/80/-300/Minerals -12/Nekoite/Mineral cantik dengan warna merah muda." #!String
+    556: "Orpiment/80/-300/Minerals -12/Orpiment/Meskipun beracun, Mineral ini digunakan sebagai bahan medis." #!String
+    557: "Petrified Slime/120/-300/Minerals -12/Petrified Slime/Mahluk ini pasti berumur sekitar 100,000 tahun." #!String
+    558: "Thunder Egg/100/-300/Minerals -12/Thunder Egg/Menurut legenda, saat roh petir marah mereka akan melemparkan batu ini satu sama lain." #!String
+    559: "Pyrite/120/-300/Minerals -12/Pyrite/Lebih dikenal sebagai \"Fool's Gold\"." #!String
+    560: "Ocean Stone/220/-300/Minerals -12/Ocean Stone/konon katanya batu ini adalah peninggalan putri duyung purba." #!String
+    561: "Ghost Crystal/200/-300/Minerals -12/Ghost Crystal/Ada aura dingin keluar dari kristal ini." #!String
+    562: "Tigerseye/275/-300/Minerals -12/Tigerseye/Cahaya keemasannya membuat kristal ini terasa hangat." #!String
+    563: "Jasper/150/-300/Minerals -12/Jasper/Saat diasah, batu ini akan sangat cahaya. Batu berharga sejak zaman kuno." #!String
+    564: "Opal/150/-300/Minerals -12/Opal/Struktur dalamnya bisa memantulkan cahaya pelangi." #!String
+    565: "Fire Opal/350/-300/Minerals -12/Fire Opal/Salah satu jenis opal yang langka, dinamai karena bintik merahnya." #!String
+    566: "Celestine/125/-300/Minerals -12/Celestine/Sebuah kehidupan purba membentuk kristal ini." #!String
+    567: "Marble/110/-300/Minerals -12/Marble/Material yang sangat populer sebagai pahaatan dan bangunan." #!String
+    568: "Sandstone/60/-300/Minerals -12/Sandstone/batu umum dengan garisa merah dan coklat." #!String
+    569: "Granite/75/-300/Minerals -12/Granite/Mineral berbintik yang biasa digunakan pada bangunan." #!String
+    570: "Basalt/175/-300/Minerals -12/Basalt/Terbentuk dari panasnya magma." #!String
+    571: "Limestone/15/-300/Minerals -12/Limestone/Tipe bebatuan yang sangat umum. Tidak begitu mahal." #!String
+    572: "Soapstone/120/-300/Minerals -12/Soapstone/Karena bentuknya yang agak rapuh, batu ini jarang dipakai untuk mengukir." #!String
+    573: "Hematite/150/-300/Minerals -12/Hematite/Mineral sejenis besi dengan sifat magnet unik." #!String
+    574: "Mudstone/25/-300/Minerals -12/Mudstone/Batu yang terbentuk dari lumpur dan tanah liat zaman dulu." #!String
+    575: "Obsidian/200/-300/Minerals -12/Obsidian/Kristal yang terbentuk dari lelehan lava yang membeku." #!String
+    576: "Slate/85/-300/Minerals -12/Slate/Sangat tahan terhadap air, cocok dipakai untuk materi atap." #!String
+    577: "Fairy Stone/250/-300/Minerals -12/Fairy Stone/Konon katanya batu ini terbentuk dari tulang peri zaman dulu." #!String
+    578: "Star Shards/500/-300/Minerals -12/Star Shards/Tak ada yang tahu asal benda ini. eberapa ilmuwan mengatakan struktur benda ini sangat tak wajar" #!String
+    579: "Prehistoric Scapula/100/-300/Arch/Tulang Belikat Purba/Biasa dikenal sebagai \"shoulder blade\"... Masih belum jelas berasal dari spesies apa./Item 1 289/Town .01" #!String
+    580: "Prehistoric Tibia/100/-300/Arch/Tulang Kering Purba/Tulang kaki yang kuat dan kokoh./Item 1 289/Forest .01" #!String
+    581: "Prehistoric Skull/100/-300/Arch/Tengkorak Purba/Ini pasti tengkorak mamalia./Item 1 289/Mountain .01" #!String
+    582: "Skeletal Hand/100/-300/Arch/Kerangka Tangan/Sebuah keajaiban potongan-potongan kecil kuno ini bertahan begitu lama./Item 1 289/Beach .01" #!String
+    583: "Prehistoric Rib/100/-300/Arch/Tulang Rusuk Purba/Sedikit tanda gigitan di samping menunjukkan kalau ini pernah menjadi makanan seseorang./Item 1 289/Farm .01" #!String
+    584: "Prehistoric Vertebra/100/-300/Arch/Tulang Ruas Purba/Bagian tulang makhluk prasejarah./Item 1 289/BusStop .01" #!String
+    585: "Skeletal Tail/100/-300/Arch/Kerangka Ekor/Terlalu pendek untuk sebuah ekor./Item 1 289/UndergroundMine .01" #!String
+    586: "Nautilus Fossil/80/-300/Arch/Fosil Nautilus/Ini pasti terdampar berabad-abad di terumbu karang purba. /Item 1 289/Beach .03" #!String
+    587: "Amphibian Fossil/150/-300/Arch/Fosil Amfibi/Dilihat dari kaki pipihnya fosil ini berasal dari katak zaman prasejarah./Item 1 289/Forest .01 Mountain .01" #!String
+    588: "Palm Fossil/100/-300/Arch/Fosil Daun/Fosil daun adalah fosil yang umum, tapi yang ini terlihat masih terawat baik./Item 1 289/Desert .1 Beach .01 Forest .01" #!String
+    589: "Trilobite/50/-300/Arch/Trilobite/Mahluk sejenis kepiting yang sudah lama punah./Item 1 289/Beach .03 Mountain .03 Forest .03" #!String
+    590: "Artifact Spot/0/-300/asdf/Spot Artefak/Uh... Bagaimana ini bisa masuk ke penyimpanan? Aneh memang./Item 1 289/Beach .03 Mountain .03 Forest .03" #!String
+    591: "Tulip/30/18/Basic -80/Tulip/Bunga musim semi paling populer. Memiliki aroma yang manis." #!String
+    593: "Summer Spangle/90/18/Basic -80/Summer Spangle/Bunga tropis yang hidup di hangatnya musim panas. Mempunyai aroma manis yang tajam." #!String
+    595: "Fairy Rose/290/18/Basic -80/Fairy Rose/Konon katanya aroma bunga ini bisa menarik perhatian para peri." #!String
+    597: "Blue Jazz/50/18/Basic -80/Blue Jazz/Bunga yang berbentuk bundar yang biasa dihinggapi banyak kupu-kupu." #!String
+    599: "Sprinkler/100/-300/Crafting -8/Sprinkler/menyirami 4 tanah di sekeliling setiap pagi." #!String
+    604: "Plum Pudding/260/70/Cooking -7/Puding Plum/Pencuci mulut yang cocok saat liburan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    605: "Artichoke Dip/210/40/Cooking -7/Saus Artichoke/Lezat dan menyegarkan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    606: "Stir Fry/335/80/Cooking -7/Osengan/Campuran sayuran yang dimasak dengan ditumis./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    607: "Roasted Hazelnuts/270/70/Cooking -7/Hazelnut Bakar/Proses pembakarannya menghasilkan rasa yang luar biasa./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    608: "Pumpkin Pie/385/90/Cooking -7/Pai Labu/Lapisan labu yang kembut dengan pinggiran renyah./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    609: "Radish Salad/300/80/Cooking -7/Salad Lobak/Lobaknya sangat renyah!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    610: "Fruit Salad/450/105/Cooking -7/Salad Buah/Kombinasi buah musim panas yang lezat./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    611: "Blackberry Cobbler/260/70/Cooking -7/Saus Blackberi/Tidak ada yang bisa mengalahkan kelezatan makanan ini./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    612: "Cranberry Candy/175/50/Cooking -7/Permen Cranberi/Rasa manisnya menutupi rasa pahit buahnya./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    613: "Apple/100/15/Basic -79/Apel/Buah renyah yang cocok dibuat jus dan sari buah." #!String
+    618: "Bruschetta/210/45/Cooking -7/Bruschetta/Tomat panggang di dalam roti yeng renyah./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    621: "Quality Sprinkler/450/-300/Crafting -8/Sprinkler Berkualitas/Menyirami 8 tanah di sekeliling setiap pagi." #!String
+    628: "Cherry Sapling/850/-300/Basic -74/Anak Pohon Ceri/Butuh 28 hari untuk menjadi pohon ceri dewasa. Berbuah saat musim semi. Hanya tumbuh jika ke 8 \"petak\" sekeliling kosong." #!String
+    629: "Apricot Sapling/500/-300/Basic -74/Anak Pohon Apricot/Butuh 28 hari untuk menjadi pohon Apricot dewasa. Berbuah saat musim semi. Hanya tumbuh jika ke 8 \"petak\" sekeliling kosong." #!String
+    630: "Orange Sapling/1000/-300/Basic -74/Anak Pohon jeruk/Butuh 28 hari untuk menjadi pohon jeruk dewasa. Berbuah saat musim panas. Hanya tumbuh saat ke 8 \"petak\" sekeliling kosong." #!String
+    631: "Peach Sapling/1500/-300/Basic -74/Anak Pohon Peach/Butuh 28 hari untuk menjadi pohon peach dewasa. Berbuah saat musim panas. Hanya tumbuh saat ke 8 \"petak\" sekeliling kosong." #!String
+    632: "Pomegranate Sapling/1500/-300/Basic -74/Anak Pohon Pomegranate/Butuh 28 hari untuk menjadi pohon pomegrate dewasa. Berbuah saat musim gugur. Hanya tumbuh saat ke 8 \"petak\" sekeliling kosong." #!String
+    633: "Apple Sapling/1000/-300/Basic -74/Anak Pohon Apel Sapling/Butuh 28 hari untuk menjadi pohon apel dewasa. Berbuah saat musim gugur. Hanya tumbuh saat ke 8 \"petak\" sekeliling kosong." #!String
+    634: "Apricot/50/15/Basic -79/Apricot/Buah lembut dengan biji sekeras batu." #!String
+    635: "Orange/100/15/Basic -79/Jeruk/Berair, berbau tajam, dan mengeluarkan aroma musim panas." #!String
+    636: "Peach/140/15/Basic -79/Persik/Buah yang sangat berbulu." #!String
+    637: "Pomegranate/140/15/Basic -79/Delima/Di dalam buahnya terdapat banyak biji berair." #!String
+    638: "Cherry/80/15/Basic -79/Ceri/Sangat populer, dan lebih cepat matang daripada buah yang lain." #!String
+    645: "Iridium Sprinkler/1000/-300/Crafting -8/Sprinkler Iridium/Menyirami 24 tanah yang di sekeliling setiap pagi." #!String
+    648: "Coleslaw/345/85/Cooking -7/Selada Kol/Ringan, segar dan sangat menyehatkan./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    649: "Fiddlehead Risotto/350/90/Cooking -7/Fiddlehead Risotto/Hidangan campuran nasi creamy dengan tumis paku. Rasanya sedikit hambar./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    651: "Poppyseed Muffin/250/60/Cooking -7/Muffin Poppy/Mufiin yang bisa menenangkan pikiran./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    668: "Stone/0/15/Basic/Batu/Ada bongkahan logam menempel di batu ini." #!String
+    670: "Stone/0/15/Basic/Batu/Ada bongkahan logam menempel di batu ini." #!String
+    674: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    675: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    676: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    677: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    678: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    679: "Weeds/0/15/Basic/Rumput/Rumput layu." #!String
+    680: "Green Slime Egg/1000/-300/Basic/Telur Slime Hijau/Bisa ditetaskan lewat Inkubator Slime." #!String
+    681: "Rain Totem/20/-300/Crafting/Rain Totem/Aktifkan untuk meningkatkan kemungkinan hujan esok hari. Sekali pakai." #!String
+    682: "Mutant Carp/1000/10/Fish -4/Mutant Carp/Air dari got membuat ikan ini bermutasi menjadi monster./Day^Spring Summer" #!String
+    684: "Bug Meat/8/-300/Basic -28/Daging Serangga/Kumpalan daging serangga." #!String
+    685: "Bait/1/-300/Basic -21/Umpan/Membuat ikan lebih cepat menggigit kail. Harus dipasang di pancing." #!String
+    686: "Spinner/250/-300/Basic -22/Spinner/Bentuknya membuatnya berputar di air. Menambah sedikit kesempatan ikan menggigit kail." #!String
+    687: "Dressed Spinner/500/-300/Basic -22/Spinner Berhias/Label besi dan pitanya yang warna-warni akan menarik perhatian ikan. Menambah kesempatan ikan menggigit kail.." #!String
+    688: "Warp Totem: Farm/20/-300/Crafting/Warp Totem: Kebun/Teleportasi langsung ke rumahmu. Sekali pakai." #!String
+    689: "Warp Totem: Mountains/20/-300/Crafting/Warp Totem: Gunung/Teleportasi langsung ke gunung. Sekali pakai." #!String
+    690: "Warp Totem: Beach/20/-300/Crafting/Warp Totem: Pantai/Teleportasi langsung ke pantai. Sekali pakai." #!String
+    691: "Barbed Hook/500/-300/Basic -22/Kail Berduri/Memudahkanmu dalam menagkap ikan, membuat \"fishing bar\" lebih cepat naik. Cocok untuk ikan lemah dan lambat." #!String
+    692: "Lead Bobber/150/-300/Basic -22/Lead Bobber/Menambah beban pada \"fishing bar\", memastikannya tidak memantul saat mencapai dasar." #!String
+    693: "Treasure Hunter/250/-300/Basic -22/Treasure Hunter/Ikan tidak akan lolos saat mengambil peti harta. Meningkatkan kesempatan menemukan peti harta saat memancing." #!String
+    694: "Trap Bobber/200/-300/Basic -22/Trap Bobber/Memastikan ikan tidak lolos saat kamu tidak menariknya." #!String
+    695: "Cork Bobber/250/-300/Basic -22/Cork Bobber/Memperlebar sedikit ukuran \"fishing bar\"." #!String
+    698: "Sturgeon/200/10/Fish -4/Sturgeon/Ikan purba laut dangkal yang populasinya menipis. Betinanya bisa hidup selama 150 tahun./Day^Spring Summer" #!String
+    699: "Tiger Trout/150/10/Fish -4/Tiger Trout/Hybrid langka dari trout yang tak bisa melanjutkan spesiesnya sendiri./Day^Spring Summer" #!String
+    700: "Bullhead/75/10/Fish -4/Bullhead/Keluarga catfish yang suka makan dari dasar danau./Day^Spring Summer" #!String
+    701: "Tilapia/75/10/Fish -4/Tilapia/Ikan herbivora yang suka air hangat./Day^Spring Summer" #!String
+    702: "Chub/50/10/Fish -4/Chub/Ikan air tawar umum yang terkenal rakus./Day^Spring Summer" #!String
+    703: "Magnet/15/-300/Basic -21/Magnet/Meningkatkan kemungkinan dapat peti harta. Tetapi, ikan tak begitu suka dengan rasanya." #!String
+    704: "Dorado/100/10/Fish -4/Dorado/Ikan karnivora dengan sisik orange indah./Day^Summer" #!String
+    705: "Albacore/75/10/Fish -4/Albacore/Menyukai temperatur dingin dan hangat./Day^Spring Fall" #!String
+    706: "Shad/60/10/Fish -4/Shad/Hidup bergerombol di laut, tapi sendiri-sendiri di sungai./Day^Spring Summer Fall" #!String
+    707: "Lingcod/120/10/Fish -4/Lingcod/Ikan Predator yang akan memakan apa saja yang dapat muat dimulutnya./Day^Fall" #!String
+    708: "Halibut/80/10/Fish -4/Halibut/Ikan pipih yang hidup di dasar laut./Day^Spring Summer" #!String
+    709: "Hardwood/15/-300/Basic -16/Kayu Keras/Jenis kayu dengan daya tahan kuat dan keindahannya yang." #!String
+    710: "Crab Pot/50/-300/Crafting/Perangkap Kepiting/Taruh di air, masukan umpan, cek esok hari apa kau mendapat sesuatu. Taruh di sungai, danau, atau laut." #!String
+    715: "Lobster/120/-300/Fish -4/Lobster/Mahluk krustasea dengan ekor yang sangat kuat./Day^Spring Summer" #!String
+    716: "Crayfish/75/-300/Fish -4/Crayfish/Keluarga lobster yang hidup di air tawar./Day^Spring Summer" #!String
+    717: "Crab/100/-300/Fish -4/Kepiting/Krustasea laut dengan dua capit kuat./Day^Spring Summer" #!String
+    718: "Cockle/50/-300/Fish -4/Cockle/Kerang laut umum./Day^Spring Summer" #!String
+    719: "Mussel/30/-300/Fish -4/Kijing/Kerang umum yang biasanya hidup berkelompok./Day^Spring Summer" #!String
+    720: "Shrimp/60/-300/Fish -4/Udang/Makhluk yang suka makan di dasar laut. Dagingnya sangat mahal./Day^Spring Summer" #!String
+    721: "Snail/65/-300/Fish -4/Siput/Moluska umum yang hidup di dalam cangkang spiral./Day^Spring Summer" #!String
+    722: "Periwinkle/20/-300/Fish -4/Periwinkle/Siput air tawal kecil yang tinggal di cangkang biru./Day^Spring Summer" #!String
+    723: "Oyster/40/-300/Fish -4/Tiram/Dapat menyaring air untuk mencari makanan. Makhluk ini dapat menghilangkan limbah dari lingkungan sekitar./Day^Spring Summer" #!String
+    724: "Maple Syrup/200/20/Basic -27/Sirup Maple/Sirup manis dengan rasa yang unik./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    725: "Oak Resin/150/-300/Basic -27/Getah Ek/Cairan lengket dan harum dari getah pohon ek." #!String
+    726: "Pine Tar/100/-300/Basic -27/Getah Pinus/Cairan berbau tajam dari getah pohon pinus." #!String
+    727: "Chowder/135/90/Cooking -7/Sup Kental/Cara terbaik untuk menghangatkan tubuh di dinginnya malam laut./food/0 1 0 0 0 0 0 0 0 0 0/1440" #!String
+    728: "Fish Stew/175/90/Cooking -7/Sup Ikan/Beraroma seperti laut. Rasanya tetap enak, kok./food/0 3 0 0 0 0 0 0 0 0 0/1440" #!String
+    729: "Escargot/125/90/Cooking -7/Escargot/Siput dilumuri mentega yang dimasak dengan sempurna./food/0 2 0 0 0 0 0 0 0 0 0/1440" #!String
+    730: "Lobster Bisque/205/90/Cooking -7/Bisque Lobster/Sup enak ini dimasak dengan resep rahasia keluarga Willy./food/0 3 0 0 0 0 0 50 0 0 0/1440" #!String
+    731: "Maple Bar/300/90/Cooking -7/Roti Maple/Donat manis dengat lapisan selai maple./food/1 1 1 0 0 0 0 0 0 0 0/1440" #!String
+    732: "Crab Cakes/275/90/Cooking -7/Kue Kepiting/Kepiting, tepung roti, dan telur dibentuk menjadi patty dan digoreng kecoklatan./food/0 0 0 0 0 0 0 0 0 1 1/1440" #!String
+    734: "Woodskip/75/10/Fish -4/Woodskip/Ikan sensitif yang hanya bisa hidup di danau dalam hutan./Day^Spring Summer" #!String
+    745: "Strawberry Seeds/0/-300/Seeds -74/Bibit Stroberi/Tanam saat musim semi. Butuh 8 hari untuk tumbuh, tetap berbuah setelah dipanen." #!String
+    746: "Jack-O-Lantern/0/-300/Crafting -8/Jack-O-Lantern/Dekorasi umum musim gugur." #!String
+    747: "Rotten Plant/0/-300/Basic -20/Tanaman Busuk/Bahan organik yang membusuk. Sangat lembek dan menjijikan." #!String
+    748: "Rotten Plant/0/-300/Basic -20/Tanaman Busuk/Bahan organik yang membusuk. Sangat lembek dan menjijikan." #!String
+    749: "Omni Geode/0/-300/Basic/Geode Omni/Pandai besi bisa memecah ini untukmu. Geode ini mengandung berbagai macam mineral./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 541 544 545 546 550 551 559 560 561 564 567 572 573 577 539 540 543 547 553 554 562 563 565 570 575 578 121 122 123" #!String
+    750: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    751: "Stone/0/15/Basic/Batu/Ada logam tembaga menempel di batu ini." #!String
+    760: "Stone/0/15/Basic/Batu/..." #!String
+    762: "Stone/0/15/Basic/Batu/..." #!String
+    764: "Stone/0/15/Basic/Batu/Logam emas" #!String
+    765: "Stone/0/15/Basic/Batu/Logam iridium" #!String
+    766: "Slime/5/-300/Basic -28/Slime/Berkilau, berbentuk kenyal, dan tak berbau." #!String
+    767: "Bat Wing/15/-300/Basic -28/Sayap Kelelawar/Material yang ternyata bentuknya halus." #!String
+    768: "Solar Essence/40/-300/Basic -28/Solar Essence/Permukaannya sangat hangat saat disentuh." #!String
+    769: "Void Essence/50/-300/Basic -28/Void Essence/Mengeluarkan energy kegelapan." #!String
+    770: "Mixed Seeds/0/-300/Seeds -74/Campuran Bibit/Semuanya ada disini. Tanam dan lihat apa yang tumbuh!" #!String
+    771: "Fiber/1/-300/Basic -16/Rumput Fiber/Material mentah yang berasal dari rumput." #!String
+    772: "Oil of Garlic/1000/80/Cooking -7/Minyak Bawang/Minum ini dan monster yang lemah tak akan mengganggumu./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    773: "Life Elixir/500/80/Cooking -7/Life Elixir/Memulihkan seluruh Life point./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    774: "Wild Bait/15/-300/Basic -21/Wild Bait/Resep unik dari Linus. Menarik perhatian semua ikan." #!String
+    775: "Glacierfish/1000/10/Fish -4/Glacierfish/Ikan yang membangun sarangnya di bawah pada lapisan es./Day^Winter" #!String
+    784: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    785: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    786: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    787: "Battery Pack/500/-300/Basic -16/Baterai/Telah diisi dengan energi." #!String
+    788: "Lost Axe/0/-300/Quest/Kapak Robin/Robin sudah mencari ini kemana-mana." #!String
+    789: "Lucky Purple Shorts/0/-300/Quest/Celana Ungu Keberuntungan/Sebaiknya jangan mencari tahu lebih dalam tentang ini." #!String
+    790: "Berry Basket/0/-300/Quest/Keranjang Beri/Permukaannya kotor oleh sari buah beri." #!String
+    792: "Weeds/0/15/Basic/Rumput/Rumput yang jelek" #!String
+    793: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    794: "Weeds/0/15/Basic/Rumput/Rumput yang jelek." #!String
+    795: "Void Salmon/150/25/Fish -4/Void Salmon/Salmon terkontaminasi dengan energi void. Dagingnya hitam pekat, tapi menjadi merah muda saat bersentuhan dengan udara./Day^Spring Summer" #!String
+    796: "Slimejack/100/15/Fish -4/Slimejack/Ia terbungkus dengan berlapis-lapis kulit slime. Sangat licin dan susah dipegang!/Day^Spring Summer" #!String
+

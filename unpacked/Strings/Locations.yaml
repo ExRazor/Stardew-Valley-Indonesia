@@ -1,0 +1,229 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    "AdventureGuild_KillList_Header": "------------------------------\n\t\t\t --Misi Memberantas Monster--\n             \"Bantu kami menjaga lembah ini tetap aman.\"\n------------------------------" #!String
+    "AdventureGuild_KillList_LineFormat": "{0}/{1} {2}" #!String
+    "AdventureGuild_KillList_LineFormat_None": "{0}/{1} ????" #!String
+    "AdventureGuild_KillList_LineFormat_OverTarget": "{0} {2} *" #!String
+    "AdventureGuild_KillList_Slimes": "Slime" #!String
+    "AdventureGuild_KillList_VoidSpirits": "Void Spirit" #!String
+    "AdventureGuild_KillList_Bats": "Kelelawar" #!String
+    "AdventureGuild_KillList_Skeletons": "Tengkorak" #!String
+    "AdventureGuild_KillList_CaveInsects": "Serangga Gua" #!String
+    "AdventureGuild_KillList_Duggies": "Tikus Tanah" #!String
+    "AdventureGuild_KillList_DustSprites": "Dust Sprite" #!String
+    "AdventureGuild_KillList_Footer": "\n  -Kunjungi Gil untuk Ambil Upah." #!String
+    "AnimalHouse_Incubator_RemoveEgg_Question": "Keluarkan telur?" #!String
+    "AnimalHouse_Incubator_Hatch_VoidEgg": "Anak ayam menetas... Tampak aneh." #!String
+    "AnimalHouse_Incubator_Hatch_RegularEgg": "Anak ayam baru telah menetas!" #!String
+    "AnimalHouse_Incubator_Hatch_DuckEgg": "Anak bebek baru telah menetas!" #!String
+    "AnimalHouse_Incubator_Hatch_DinosaurEgg": "Bayi ...cicak? ...telah menetas." #!String
+    "Beach_FixBridge_Question": "Gunakan 300 batang kayu untuk perbaiki jembatannya?" #!String
+    "Beach_FixBridge_Hint": "Hmmm... Dengan 300 batang kayu, jembatan ini bisa diperbaiki." #!String
+    "Beach_GoneFishingMessage": "    Sedang pergi memancing.\n\n   Aku akan balik besok." #!String
+    "Beach_Mariner_Player_Male": "lad" #!String
+    "Beach_Mariner_Player_Female": "miss" #!String
+    "Beach_Mariner_PlayerMarried": "Pelaut Tua: Untunglah jimatnya manjir untukmu, {0}." #!String
+    "Beach_Mariner_PlayerHasItem": "Pelaut Tua: Kau tak usah malu. Kau tunjukkan saja jimat itu ke orang yang hendak kau lamar." #!String
+    "Beach_Mariner_PlayerNotUpgradedHouse": "Pelaut Tua: Aku bisa lihat betul binar matamu, {0}. Kau pasti sedang berbunga-bunga dengan cinta. Tapi aku rasa,  besar akan lebih bagus lagi kalau rumah kau itu lebih besar lagi biar rumah tangga kalian tambah bagus." #!String
+    "Beach_Mariner_PlayerBuyItem_Question": "Pelaut Tua: Ah, aku bisa lihat dari tatapan kau... Ada seseorang yang spesial di hati kau. Kebetulan kali, aku lagi jual 'Kalung Duyung'. Berikan ini ke orang terkasih kau, dan dia akan paham maksud kau ." #!String
+    "Beach_Mariner_PlayerBuyItem_AnswerYes": "Beli (5000g)" #!String
+    "Beach_Mariner_PlayerBuyItem_AnswerNo": "Belum sekarang..." #!String
+    "Beach_Mariner_PlayerNoRelationship": "Pelaut Tua: Aku punya jimat untuk kujual... tapi firasatku bilang kalau itu belum layak untuk kujual pada kau, {0}." #!String
+    "BuildableLocation_CantUpgrade_SomeoneInside": "Tidak bisa meng-upgrade jika ada orang di dalam." #!String
+    "BuildableLocation_CantUpgrade_IncorrectBuildingType": "Jenis Bangunan Keliru" #!String
+    "MineCart_Destination_Mines": "Tambang" #!String
+    "MineCart_Destination_Town": "Kota" #!String
+    "MineCart_Destination_BusStop": "Perhentian Bus" #!String
+    "MineCart_Destination_Quarry": "Lombong" #!String
+    "MineCart_Destination_Cancel": "Batal" #!String
+    "MineCart_ChooseDestination": "Pilih Tujuan:" #!String
+    "MineCart_OutOfOrder": "Tidak bisa digunakan" #!String
+    "BusStop_BuyTicketToDesert": "Beli tiket menuju Gurun Calico seharga 500g?" #!String
+    "BusStop_DesertOutOfService": "Bus menuju Gurun Calico tidak tersedia." #!String
+    "BusStop_NotEnoughMoneyForTicket": "Kamu tidak punya cukup uang." #!String
+    "BusStop_NoDriver": "Kembali lagi saat supir busnya ada." #!String
+    "BusStop_ReturnToHorse1": "{0} penasaran kamu dari mana saja." #!String
+    "BusStop_ReturnToHorse2": "Kuda setiamu menunggu kepulanganmu dengan sabar." #!String
+    "Club_Bouncer_TextAboveHead1": "Sekarang, aku benar-benar marah!" #!String
+    "Club_Bouncer_TextAboveHead2": "Bocah sialan..." #!String
+    "CommunityCenter_AreaCompletion1": "Kami adalah Junimos... Sang Penunggu Hutan" #!String
+    "CommunityCenter_AreaCompletion2": "Rumah ini telah kosong bertahun-tahun... Pepohonan telah berpindah, begitu pun kami." #!String
+    "CommunityCenter_AreaCompletion3": "Kami senang bisam embantu... Lagi pula, itu juga bukan rumah kami." #!String
+    "CommunityCenter_AreaCompletion4": "Bundel bagusnya berlimpah... terima kasih! Terima kasih!" #!String
+    "CommunityCenter_AreaCompletion5": "Selepas urusan di sini, kami akan kembali ke dunia lain." #!String
+    "CommunityCenter_AreaCompletion6": "Bundel terakhir... Selamat tinggal... {0}." #!String
+    "CommunityCenter_AreaRestored": "{0} telah diperbaiki!" #!String
+    "CommunityCenter_JunimosReturned": "Para Junimo telah kembali ke alam roh." #!String
+    "CommunityCenter_AreaName_BoilerRoom": "Ruang Ketel" #!String
+    "CommunityCenter_AreaName_BulletinBoard": "Papan Buletin" #!String
+    "CommunityCenter_AreaName_CraftsRoom": "Ruang Rakit" #!String
+    "CommunityCenter_AreaName_FishTank": "Tangki Ikan" #!String
+    "CommunityCenter_AreaName_Pantry": "Pantri" #!String
+    "CommunityCenter_AreaName_Vault": "Ruang Besi" #!String
+    "Desert_Return_Question": "Kembali ke Stardew Valley?" #!String
+    "Desert_Return_Yes": "Ya" #!String
+    "Desert_Return_No": "Jangan dulu" #!String
+    "Farm_1SlimeEscaped": "Satu slime kabur saat malam." #!String
+    "Farm_NSlimesEscaped": "{0} slime kabur saat malam." #!String
+    "Farm_GrandpaNote": "{0}-\n\nTunggulah kedatanganku saat terbitnya fajar di tahun ketigamu.\n\n-Kakek" #!String
+    "Farm_GrandpaShrine_PlaceDiamond": "Kamu meletakkan berlian ke atas Nisan Kakek." #!String
+    "Farm_GrandpaShrine_DiamondSlot": "Ada lubang berbentuk berlian di nisannya... Dari dulu memang ada, ya?" #!String
+    "FarmHouse_SpouseAttacked1": "Apa...?" #!String
+    "FarmHouse_SpouseAttacked2": "Ahh!!" #!String
+    "FarmHouse_SpouseAttacked3": "&@#$!!" #!String
+    "FarmHouse_SpouseAttacked4": "Aiii!" #!String
+    "FarmHouse_SpouseAttacked5": "Mati sana!" #!String
+    "FarmHouse_SpouseAttacked6": "Keluar!" #!String
+    "FarmHouse_SpouseAttacked7": "Iwh!" #!String
+    "FarmHouse_SpouseAttacked8": "Makan itu!" #!String
+    "FarmHouse_SpouseAttacked9": "Tolong!" #!String
+    "FarmHouse_SpouseAttacked10": "Ambil pedangmu!" #!String
+    "FarmHouse_SpouseAttacked11": "Agh!" #!String
+    "FarmHouse_SpouseAttacked12": "Gahh!" #!String
+    "Forest_WizardTower_Locked": "Terkunci. Tapi kamu bisa mendengar ada orang di dalam." #!String
+    "Forest_OpenedSewer": "Kamu membuka pintu selokannya dengan Kunci Berkarat!" #!String
+    "Forest_HatMouseStore_Abandoned": "Rumahnya kelihatan tidak terawat..." #!String
+    "Desert_BusArrived": "Oke, Nak. Naik saja ke bus kalau sudah mau pulang." #!String
+    "Bus_NoDriver": "Tunggulah sampai jam mengendarai bus Pam tiba." #!String
+    "DoorUnlock_NotFriend_Male": "Kamu belum cukup dekat dengan {0} untuk masuk ke kamarnya." #!String
+    "DoorUnlock_NotFriend_Female": "Kamu belum cukup dekat dengan {0} untuk masuk ke kamarnya." #!String
+    "DoorUnlock_NotFriend_Couple": "Kamu belum cukup dekat dengan {0} atau {1} untuk masuk ke kamar mereka." #!String
+    "FarmHouse_Bed_GoToSleep": "Pergi tidur sekarang?" #!String
+    "MensLocker_WrongGender": "Itu kan kamar ganti pria... Kamu tidak boleh masuk ke sana!" #!String
+    "WomensLocker_WrongGender": "Itu kan kamar ganti wanita... Kamu tidak boleh masuk ke sana!" #!String
+    "Saloon_ColaMachine_Question": "Beli Joja Cola seharga 75g?" #!String
+    "IceCreamStand_ComeBackLater": "Kembalilah saat penjualnya ada." #!String
+    "IceCreamStand_NotSummer": "Tutup sampai musim panas." #!String
+    "WizardTower_WizardShrine": "           Nisan Ilusi  \nBerikan sajen 500g untuk mengubah penampilan?" #!String
+    "SeedShop_BuyBackpack_Response2000": "Beli (2,000g)" #!String
+    "SeedShop_BuyBackpack_Response10000": "Beli (10,000g)" #!String
+    "SeedShop_BuyBackpack_ResponseNo": "Nanti saja" #!String
+    "SeedShop_BuyBackpack_Question24": "Upgrade Tas -- 24 slot" #!String
+    "SeedShop_BuyBackpack_Question36": "Upgrade Tas -- 36 slot" #!String
+    "Club_Buy100Coins": "Beli 100 Koin Qi seharga 1,000g?" #!String
+    "Desert_SandDragon_Initial": "Ada mulut membuka ke arah matahari di gurun. Meski tak lagi bernyawa, dia tetap merindukan rasanya." #!String
+    "Desert_SandDragon_ConsumeEssence": "Kamu takjub dengan bentuk mulut naga itu. Saati itulah, kamu menyadari ada catatan tersembunyi di kantung matanya.:" #!String
+    "Desert_SandDragon_MrQiNote": "'Kamu telah menunjukkan tajimu, Nak. Ambillah tumpukan kayu yang ada di sebelah rumahmu. -Mr. Qi'" #!String
+    "Railroad_Box_Initial": "Cuma kotak kosong." #!String
+    "Railroad_Box_ConsumeShell": "Kamu melempar kerang ke box. Tiba-tiba saja, ada secarik catatan jatuh di atas rakitnya:" #!String
+    "Railroad_Box_MrQiNote": "'Kerja bagus. Misi selanjutnya: Tempatkan 10 buah bit ke kulkas Mayor. -Mr. Qi'" #!String
+    "ManorHouse_DivorceBook_NoSpouse": "Catatan Pernikahan Kota Pelican... Setelah menikah, kamu bisa mengajukan cerai di sini. Semoga saja itu tidak terjadi, ya!" #!String
+    "ManorHouse_DivorceBook_Question": "Ajukan cerai? Biayanya 50,000g." #!String
+    "ManorHouse_DivorceBook_CancelQuestion": "Batalkan pengajuan cerai?" #!String
+    "ManorHouse_DivorceBook_Cancelled": "Pengajuan ceraimu telah dibatalkan." #!String
+    "ManorHouse_DivorceBook_Filed": "Pengajuan ceraimu telah dicatat, tapi pasanganmu tidak akan tahu soal ini hingga besok pagi. Jika kamu berubah pikiran, kembalilah ke sini sebelum malam berakhir." #!String
+    "ManorHouse_MayorFridge_Initial": "Kulkas milik mayor. Isinya penu hdengan susu dan es teh." #!String
+    "ManorHouse_MayorFridge_ConsumeBeets": "Kamu bergegas menaruh buah bitnya dalam kulkas. Tunggu dulu... ada catatan menempel di susunya. Ditujukan padamu:" #!String
+    "ManorHouse_MayorFridge_MrQiNote": "'Kerja bagus, Nak. Misi terakhir: Berikan naga pasir santapan terakhirnya. -Mr. Qi'" #!String
+    "Tunnel_TunnelSafe_Initial": "Ini peti uang bertenaga baterai. Sayangnya, tidak ada baterai terpasang." #!String
+    "Tunnel_TunnelSafe_ConsumeBattery": "Berhasil! Peti uangnya terbuka. Di dalam ada catatan:" #!String
+    "Tunnel_TunnelSafe_MrQiNote": "'Misi pertamamu: Bawakan rainbow shell ke peron kereta. Tinggalkan saja di kotak. -Mr. Qi'" #!String
+    "SkullCave_SkullDoor_Locked": "Pintunya terkunci." #!String
+    "SkullCave_SkullDoor_Unlock": "Kamu memasukkan kunci tengkorak ke lubang kunci. Pas sekali!" #!String
+    "FarmHouse_Crib_NewbornSleeping": "{0} sedang tidur." #!String
+    "Farm_GreenhouseRuins": "Apa pun ini sebelumnya, sekarang sudah bangunannya sudah tak terurus." #!String
+    "Saloon_Arcade_Minecart_Menu": "= Junimo Kart =" #!String
+    "Saloon_Arcade_Minecart_ProgressMode": "Progress Mode" #!String
+    "Saloon_Arcade_Minecart_EndlessMode": "Endless Mode" #!String
+    "Saloon_Arcade_Minecart_Exit": "Keluar" #!String
+    "Saloon_Arcade_PK_NewGame+": "Press button for a more difficult journey..." #!String
+    "Saloon_Arcade_Minecart_Inactive": "Ada lubang kunci berbentuk tengkorak..." #!String
+    "AnimalShop_Marnie_Trash": "Kebanyakan cuma dus pizza kosong." #!String
+    "JoshHouse_Alex_Trash": "Ada banyak pembungkus suplemen protein." #!String
+    "SamHouse_Sam_Trash": "Tampaknya Sam rutin membersihkan tong sampahnya." #!String
+    "SeedShop_Abigail_Drawers": "Penuh dengan pakaian... tunggu. Ada pedang tersembunyi di bajunya." #!String
+    "Mines_MineElevator_NotWorking": "Sepertinya tidak bekerja..." #!String
+    "Mines_LeaveMine": "Keluar tambang" #!String
+    "Mines_GoUp": "Naik satu lantai" #!String
+    "Mines_DoNothing": "Tidak melakukan apa-apa" #!String
+    "Mines_ResetMine": "Reset lokasi terakhirmu di tambang?\n(Kamu akan kembali ke tambang lantai 1)." #!String
+    "RemoveChest": "Kamu membuang peti kosong." #!String
+    "Club_CalicoJack_HS": "Meja ini untuk taruhan besar. Taruhannya 1000 koin." #!String
+    "Club_CalicoJack": "Ingin main CalicoJack? Ini meja dengan taruhan awal 100 koin." #!String
+    "Club_CalicoJack_Play": "Main" #!String
+    "Club_CalicoJack_Leave": "Keluar" #!String
+    "Club_CalicoJack_Rules": "Aturan" #!String
+    "Club_QiCoins": "Kamu punya {0} Koin Klub." #!String
+    "Club_QiCoins_BuyStarter": "Kamu punya 0 Koin Klub. Beli starter pack seharga 1000g?" #!String
+    "Club_QiCoins_NotEnoughMoney": "Error: Uang tidak cukup." #!String
+    "Club_ClubSeller": "Psst... Aku punya 'Patung Dewi Keberuntungan' yang dijual seharga...  1,000,000g saja. Bagaimana?" #!String
+    "Club_ClubSeller_Yes": "Ambil." #!String
+    "Club_ClubSeller_No": "Enggak, ah!" #!String
+    "Club_ClubSeller_NotEnoughMoney": "Aduh, aku bilang harganya 1,000,000g! Uang segini mana cukup." #!String
+    "Town_DwarfGrave_Translated": "     Kamu menerjemahkan bahasa kurcaci:     \n\nBerdiri di antara pilar tiga\nDengan mukjizat semulia langit:\nPelangi yang dilukis dari darat, bukan laut\nSejagat raya pun ikut bersedih saat engkau menangis.\n" #!String
+    "SeedShop_Yoba": "Altar Yoba" #!String
+    "ElliottHouse_ElliottBook_Blank": "Buku kosong" #!String
+    "ElliottHouse_ElliottBook_Filled": "'{0}' oleh Elliott ... Teruntuk {1}" #!String
+    "FestivalDay_DoorLocked": "Terkunci..." #!String
+    "SeedShop_LockedWed": "Tutup hari Rabu." #!String
+    "LockedDoor": "Terkunci..." #!String
+    "LockedDoor_OpenRange": "Terkunci... (Buka {0} - {1})" #!String
+    "LockedDoor_FriendsOnly": "Terkunci... Hanya teman {0} yang bisa masuk tanpa diundang." #!String
+    "ScienceHouse_CarpenterMenu": "Ada yang kamu perlukan?" #!String
+    "ScienceHouse_CarpenterMenu_Shop": "Belanja" #!String
+    "ScienceHouse_CarpenterMenu_UpgradeHouse": "Upgrade Rumah" #!String
+    "ScienceHouse_CarpenterMenu_Construct": "Bangun Bangunan Perkebunan" #!String
+    "ScienceHouse_CarpenterMenu_Leave": "Keluar" #!String
+    "ScienceHouse_RobinAbsent": "Maaf! Toko tutup hari ini... Aku ada di tempatnya Caroline ikut kegiatan aerobik.\n\n-Robin" #!String
+    "Blacksmith_Clint_Shop": "Belanja" #!String
+    "Blacksmith_Clint_Upgrade": "Upgrade Peralatan" #!String
+    "Blacksmith_Clint_Leave": "Keluar" #!String
+    "Blacksmith_Clint_Geodes": "Pecahkan Geode" #!String
+    "AnimalShop_Marnie_Supplies": "Belanja Persediaan" #!String
+    "AnimalShop_Marnie_Animals": "Beli Hewan" #!String
+    "AnimalShop_Marnie_Leave": "Keluar" #!String
+    "AnimalShop_Marnie_Absent": "Tutup hari ini.\n\n-Marnie" #!String
+    "ArchaeologyHouse_Gunther_Donate": "Donasikan ke Museum" #!String
+    "ArchaeologyHouse_Gunther_Collect": "Terima Upah" #!String
+    "ArchaeologyHouse_Gunther_Leave": "Keluar" #!String
+    "HaleyHouse_EmilyRoomObject": "Ada kaset tape di dalam:'Irama Tarian Bebas'" #!String
+    "Club_Bouncer_PlayerClubMember": "Kamu bisa masuk." #!String
+    "Club_CalicoJack_Rules1": "Tujuannya adalah mencapai angka 21 sebisa mungkin. Rentang kartu dari 1 hingga 9, kecuali kartu pertama yang bisa saja tinggi hingga 11. Setiap pemain memegang dua kartu, tapi kartu pertama bandar disembunyikan. Setiap putaran, kamu bisa memilih untuk mengundi angka acak dari 1 hingga 9 atau lewat." #!String
+    "Club_CalicoJack_Rules2": "Setelah kamu melewatkan giliran, kartu tersembunyi bandar kemudian dibuka. Bandar harus terus mengundi hingga mencapai total angkanya atau melewati angka 18. Jika ada di antara pemain jumlah kartunya lebih dari 21 di giliran mereka, otomatis kalah. Jika bandar memilih lewat, maka semua kartu akan dibuka. Yang punya skor tertinggi, dilalah yang menang." #!String
+    "Club_CalicoJackHS_NotEnoughCoins": "Kamu butuh setidaknya 1000 koin untuk bermain." #!String
+    "Club_CalicoJack_NotEnoughCoins": "Hei, untuk main butuh 100 koin. Koinmu tidak cukup. Beli dulu koin di mesin kalau ingin main." #!String
+    "ScienceHouse_Carpenter_UpgradeHouse1": "Aku bisa memperbesar rumahmu dan menambahkan dapur. Biasanya 10,000g dan memberiku 450 batang kayu. Minat?" #!String
+    "ScienceHouse_Carpenter_UpgradeHouse2": "Aku bisa memperbesar rumahmu dan menambah kamar anak. Biayanya 50,000g dan memberiku 150 batang kayu keras. Tertarik?" #!String
+    "ScienceHouse_Carpenter_UpgradeHouse3": "Aku bisa menambahkan atap ke rumahmu. Atap bisa digunakan sebagai tempat membuat produk seperti wine dan keju. Biayanya 100,000g. Ingin buat?" #!String
+    "ScienceHouse_Carpenter_NotEnoughWood1": "Maaf... Kamu memang punya uangnya, tapi aku butuh 450 batang kayu juga." #!String
+    "ScienceHouse_Carpenter_NotEnoughWood2": "Maaf... Kamu memang punya uangnya, tapi aku butuh 150 batang kayu juga." #!String
+    "Farm_WeedsDestruction": "Rambatan rumput liar telah merusak kebunmu." #!String
+    "JojaMart_SignUp": "Jika kau menjadi Anggota Joja, gedung serbagunanya akan jadi Gudang Penyimpanan Joja, dan kau tidak akan bisa membenahinya lagi. Akan tetapi, Joja akan menyediakan alternatif untuk membangun kota ini. Ingin gabung?" #!String
+    "Mines_Infested": "Area ini dipenuhi monster..." #!String
+    "Mines_Overrun": "Area ini dibanjiri oleh monster." #!String
+    "Mines_Fallen": "Kamu jatuh {0} lantai." #!String
+    "Mines_FallenFar": "Kamu jatuh {0} lantai. Aw!" #!String
+    "Mines_ShaftJumpIn": "Lompat" #!String
+    "Mines_Shaft": "Ada lubang menuju bawah." #!String
+    "Mountain_AdventurersGuildNote": "      * Guild Petualang *\n\n    Hanya untuk petualang sejati." #!String
+    "Railroad_TrainComing": "Ada kereta yang melintasi Stardew Valley" #!String
+    "Town_SeedShopSign": "- Toko Swalayan Pierre -\nSekarang buka setiap hari dari pukul 9am-5pm!" #!String
+    "Town_JojaSign_Destroyed": "Bangkrut." #!String
+    "Town_PickupTruck": "Ini cuma bagian belakang truk pengangkutnya Lewis..." #!String
+    "WitchHut_EvilShrineLeft": "-Nisan Egoisme Kegelapan-^Anak-anakmu akan berubah jadi merpati dan terbang menjauh...^Berikan persembahan dari satu Prismatic Shard?" #!String
+    "WitchHut_EvilShrineLeftInactive": "-Nisan Egoisme Kegelapan-^Patungnya memelototimu...\n      " #!String
+    "WitchHut_EvilShrineCenter": "-Nisan Ingatan Kegelapan-^Hubunganmu dengan mantan istri akan terhapus dari ingatan. Kalian akan seperti tidak pernah bertemu sebelumnya.^Berikan persembahan 30,000g?\n      " #!String
+    "WitchHut_Goodbye": "Selamat tinggal, {0}." #!String
+    "WitchHut_EvilShrineCenterInactive": "-Nisan Ingatan Kegelapan-^Patunany memelototimu...\n      " #!String
+    "WitchHut_EvilShrineRightActivate": "-Nisan Ancaman Malam Kegelapan-^Segel magis kuno pelindung akan terlepas, membuat monster bisa memasuki kebunmu saat malam.^Berikan persembahan dari satu Strange Bun?\n      " #!String
+    "WitchHut_EvilShrineRightDeActivate": "\n        -Nisan Ancaman Malam Kegelapan-^Segel magis kuno pelindung akan dipulihkan, mencegah monster muncul di kebunmu saat malam.^Berikan persembahan dari satu Strange Bun?\n      " #!String
+    "WitchHut_NoOffering": "Persembahanmu tidak mencukupi." #!String
+    "Sewer_MagicSeal": "Ada semacam medan tak terlihat yang menghalangi jalanmu." #!String
+    "Woods_Statue": "--Sesepuh Cannoli--\n...Masih mencari rasa manis..." #!String
+

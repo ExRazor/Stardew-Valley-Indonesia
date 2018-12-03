@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Halo halo, manis!#$b#Aku senang akhirnya bisnya bisa kembali berfungsi. Keadaan di sini mulai sepi.#$e#...Aku hampir saja bangrut.$s#$e#Eh, tapi kamu kesini mau membeli bibit..., iya kan manis?$h" #!String
+    Tue: "Kau bisa menemukan kelapa dan buah kaktus di luar sana. Ambillah sebanyak yang kamu temukan.#$e#Buah-buah itu uuuuenak tenan. Heheee!~$h" #!String
+    Wed: "Oh Selamat datang! Kalau kau ketemu sama Emily di desa, bisa kau sampaikan salamku padanya?#$e#Makasih ya!$h" #!String
+    Thu: "Orang aneh yang di belakang sana? Aku tidak seharusnya membahas ini.#$e#Ngomong-ngomong... gimana cuaca di desa belakangan ini?" #!String
+    Fri: "Kamu tidak akan bisa jadi petani di sini, sayang.#$e#yahh, kecuali kalau kamu petani kaktus.$h" #!String
+    Sat: "Hai! Selamat datang di Sandy's Oasis, destinasi nomor satu di Calico Desert!#$e#*bisik* Apa aku kelihatan profesional?$h#$e#Pastikan anda melihat bibit musiman pilihan kami.#$e#Kamu kayaknya haus. Ini, minumlah susu dingin ini. [184]#$e#Segar, bukan?$h" #!String
+    Sun: "Cuaca di sini selalu panas, bahkan musim dingin sekalipun!#$e#Sebenarnya, bagiku suhunya sedikit panas... kulit halusku jadi cepat terbakar karena matahari.$s" #!String
+    Thu2: "Orang aneh yang di belakang sana? Aku tidak seharusnya membahas ini.#$e#Ngomong-ngomong... gimana cuaca di desa belakangan ini?" #!String
+    Thu4: "Hai... Aku rasa aku bisa percaya padamu. kamu bisa jaga rahasia, kan?#$b#*bisik* Orang yang di sana itu... di sana ada semacam klub eksklusif. Aku sendiri belum bernah masuk, tapi karena mereka membayar uang sewa bulanan agak banyak.#$e#Jaaaaadiiii! gimana cuaca di desa belakangan ini?" #!String
+    Fri4: "Asal kamu tahu, sebenarnya namaku bukan Sandy. Nama itu cocok untuk usaha.#$e#Tapi setiap orang tetap memanggilku Sandy, jadi karena itu aku terbiasa dengan nama itu." #!String
+    Wed8: "Apa tidak mahal, datang ke gurun sesering ini?#$e#Kamu pasti benar-benar ingin bertemu denganku, iya kan? Hmmm... $h" #!String
+    Sun8: "Hai, sayang. Yah, hanya aku, sendiri di dalam toko tua ini. Hmmm...#$e#yah, sebenarnya ada orang aneh di sebelah sana. Tapi dia tidak pernah bergerak sedikitpun, jadi kadang aku lupa kalau dia juga ada di sini." #!String
+    Wed10: "Hai, @! Senang bisa bertemu denganmu, nak. Aku mulai berpikir kamu tidak lagi mampir kemari!#$e#Kalau saja aku tak punya toko ini, mungkin aku akan kembali ke desa satu atau dua hari... berdua bersamamu di kebun.$s#$e#Jadi, sering-seringlah mampir biar aku tidak jadi depresi.$h" #!String
+    Tue10: "Hai!~ Singgahlah selama yang kau mau.#$e#AC nya benar-benar sejuk, iya kan?" #!String
+

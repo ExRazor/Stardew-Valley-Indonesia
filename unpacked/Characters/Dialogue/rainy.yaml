@@ -1,0 +1,48 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Abigail: "Desa kelihatan lebih menarik saat hujan... iya kan?" #!String
+    Robin: "Hujan tidak akan menghentikanku dalam menyelesaikan pekerjaanku!$h#$e#Meskipun kayu basah bukan hal yang mudah untuk diatasi.$s" #!String
+    Demetrius: "Hai. Tetaplah di dalam ruangan kalau kamu ingin tetap hangat." #!String
+    Maru: "Saat hujan aku jadi punya alasan untuk bermain gadgets seharian.$h#$e#mungkin, ini membosankan untukmu." #!String
+    Sebastian: "Kalau kamu beruntung, kamu mungkin bisa melihat katak di cuaca seperti ini." #!String
+    Linus: "Hujan menjadi cara yang nyaman untuk membersihkan diri.$h" #!String
+    Pierre: "Kebanyakan orang diam di rumah saat cuaca seperti ini... hal ini tidak baik untuk bisnis toko.$s" #!String
+    Caroline: "Kebunku bahagia hari ini.$h#$e#...dan tagihan air kami akan menurun bulan ini." #!String
+    Alex: "Haah. Cuaca ini tidak cocok untuk berolahraga.$s#$e#toh, aku masih bisa angkat beban di dalam rumah.$h" #!String
+    George: "It's awful cold, isn't it? What a rotten day." #!String
+    Evelyn: "Waktu bangun aku mendengar suara tetesan air di suatu tempat... Aku rasa atapnya bocor.$s#$e#Saat masih muda dulu, George akan bergegas untuk memperbaikinya... *huuh*$s" #!String
+    Lewis: "Hai, @. Lagi istirahat?#$e#Aku harap sungainya tidak meluap...$s" #!String
+    Clint: "Hari ini adalah hari yang cocok untuk menjelajahi tambang... siapa tahu, kamu mungkin bisa menemukan logam langka di sana." #!String
+    Penny: "Tetesan hujan terdengar sangat kuat di atap trailer kami.#$e#...tak masalah sih, suaranya menenangkan.$h" #!String
+    Pam: "Haudy, nak. Mo berteduh?" #!String
+    Emily: "Calico Desert tidak pernah turun hujan... di sana tempat temanku Sandy tinggal.#$e#Aku harap bisa mengunjunginya hari ini.$s" #!String
+    Haley: "Aku menghabiskan waktu sepagian buat menatata rambutku... dan hujan bisa saja merusaknya.$s#$e#*huuh* ... terkadang hidup itu sulit." #!String
+    Jodi: "Apa kamu sudah membersihkan sepatumu dulu sebelum masuk ke dalam? Maaf... Aku baru saja mengepel lantai.#$e#Tapi jangan sungkan-sungkan ya! Heh.$h" #!String
+    Sam: "Hujan bisa menyelimuti suara, jadi aku bisa main gitar sekencang mungkin tanpa buat ibu marah. Hehe.$h" #!String
+    Leah: "Kayaknya aku harus masak sesuatu yang baru hari ini. Sesuatu yang pedas." #!String
+    Shane: "Hmm... cuaca ini membuatku haus.$s" #!String
+    Marnie: "Hai @. Kamu basah kuyup...kasihan sekali!$h" #!String
+    Elliott: "terkadang saat aku berbaring di kasur, aku mendengark gemuruh hujan menembus udara.#$b#Tapi saat kubuka jendela, yang kulihat hanya tirai abu-abu." #!String
+    Gus: "Tidak ada yang lebih luar biasa dibanding segelas anggur merah di cuaca seperti ini, ya kan?#$e#Aku sayang pekerjaanku. Hehehe." #!String
+    Dwarf: "Hujan... Kami menganggapnya sebuah mitos. Beberapa dari kami bahkan ada yang pernah hidup tanpa pernah merasakannya." #!String
+    Wizard: "Cuaca buruk adalah satu-satunya waktu aku bisa berkomunikasi dengan elemental tertentu.#$e#Tak masalah kalau kau tak mengerti." #!String
+    Harvey: "Hai @! Er... Apa kamu menemukan buku menarik di pustaka belakangan ini?#$e#Heh. yah, um... Sampai jumpa di sana ya?$u" #!String
+    Sandy: "Aku dengar di sana lagi hujan ya. Jadi karena itu kamu kemari?$h#$e#Jujur saja, kayaknya aku merindukan hujan...$s" #!String
+    Krobus: "Ah, air got mengalir deras hari ini. Di sini aku dingin dan lembab... Seperti yang kuinginkan." #!String
+

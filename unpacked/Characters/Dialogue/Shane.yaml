@@ -1,0 +1,60 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Aku tidak tahu siapa kau. Kenapa kau bicara padaku?" #!String
+    danceRejection: "...Tidak.$s" #!String
+    divorced: "...$a#$e#...Tinggalkan aku sendiri.$a" #!String
+    Mon2: "Aku tidak mengenalmu. Kenapa kau mau bicara denganku?" #!String
+    Mon4: "Eh. Maaf, aku sempat bicara kasar saat baru pertama kenal.#$e#Aku tidak biasa menghadapi orang asing." #!String
+    Mon10: "Apa kau pernah merasa, kalau seluruh dunia menatapmu seperti serangga menjijikkan?" #!String
+    Tue: "Apa? Apa maumu? Pergi sana." #!String
+    Tue2: "Apa yang kau mau dariku? Uang? Aku akan memberimu sekarung emas asal kau tinggalkan aku!" #!String
+    Tue4: "Setiap kali aku mencoba sesuatu yang baru ternyata semuanya malah jadi lebih buruk. Di situ kau bisa belajar, tetaplah di dalam cangkang." #!String
+    Tue6: "Ternyata hidup tidak terlalu buruk ya... Setidaknya sekarang aku punya pizza dingin dan telur.$u" #!String
+    Wed: "Tidak, Aku tidak punya waktu bicara denganmu." #!String
+    Wed8: "Aku rasa aku mulai terikat dengan Marnie dan Jas. Kami memang terlihat seperti keluarga aneh yang tak terurus.#$e#yah... Sejak kecil aku memang tidak punya keluarga.$s" #!String
+    Wed4: "$d Joja#*huuh* ...Setiap hari terasa sama. Menyusun barang di rak-rak busuk itu, pergi ke saloon, tossing and turning all night.$s|Aku benci pekerjaanku di JojaMart, tapi sekarang bahkan lebih buruk, aku pengangguran.$s" #!String
+    Thu: "Apa maumu? Pergi dari sini." #!String
+    Thu4: "Kau benar-benar keras kepala. Aku terkejut ternyata ada orang yang tertarik bicara denganku." #!String
+    Thu6: "Buh... Kemarikan Joja Cola?" #!String
+    Thu8: "Kau senang bicara denganku? Kayaknya aku bisa percaya padamu... mungkin kau sama anehnya sama aku.$h" #!String
+    Fri: "Bukankah kau punya kerjaan lain?" #!String
+    JojaMart: "%Shane sedang kerja. Dia terlihat tidak tertarik untuk bicara." #!String
+    Fri4: "$d Joja#Apa menariknya hidup kalau yang bisa dilakuin cuma kerja?|Aku belum bisa membayar sewa kamarku, tapi Marnie tetap mengizinkanku tinggal. Beruntungnya aku." #!String
+    Fri6: "Aku akan pergi ke saloon malam ini. Memangnya apa lagi yang bisa dilakukan?" #!String
+    Sat: "Kenapa kau menggangguku? Aku ingin sendirian." #!String
+    Sat2: "#$1 ShaneJOSH#Aku terkejut, kau masih saja ingin berteman denganku. Apa kau pikir aku belum cukup kasar bagimu?#$e#*huuh*...$s" #!String
+    Sat4: "$d Joja#Aku menyewa kamar di rumahnya Marnie dengan harga yang murah. Tempatnya kecil, tapi apa boleh buat.|Kalau saja aku bisa mengulang kehidupanku, aku akan memulainya dengan beternak ayam. Only free-range eggs of course." #!String
+    Sat8: "Aku mulai tertarik dengan ayam-ayamnya Marnie.$h" #!String
+    Sun: "Aku lagi sibuk, apa kau tidak lihat?" #!String
+    Sun6: "...Kayaknya berat badanku bertambah.$s" #!String
+    Sun8: "Mungkin jika aku lebih banyak menonton aku bisa melupakan masalah kehidupanku. Itu akan membuatku santai.$u" #!String
+    Sun10: "Hai, @. Hari-hariku semakin baik belakangan ini.$h" #!String
+    Sun4: "Hmm... ini sudah jam %time. haruskah aku masukan pizza ini ke microwave, atau aku tunggu saja?$u" #!String
+    Sun2: "Kau lagi? Sudah berapa kali kubilang tinggalkan aku sendiri?$s" #!String
+    event_room1: "Baiklah... that'll require a great script. Maybe I'll ask Elliott for advice next time I see him at the saloon.$s" #!String
+    event_room2: "Kelihatannya menarik. I'll have to create a bunch of practical effects to make it look cool." #!String
+    event_noLoan1: "I didn't know you were such a miser...$s" #!String
+    event_noLoan2: "Okay, Dad...$s^Okay, Mom...$s" #!String
+    event_noLoan3: "Oh, wau...$s" #!String
+    event_apologize1: "...Yah, aku juga." #!String
+    event_apologize2: "Aku tahu... karena itu aku singgah, aku cuma ingin memberitahumu soal itu." #!String
+    event_apologize3: "Wau, seserius itukah? Aku saja hampir tak ingat..." #!String
+    event_stadium1: "Oh yah? Aku rasa itu masuk akal.$6#$b#Aku? Aku kadang bosan dengan Pelican Town.#$b#Tapi... Aku senang kau berbeda. We balance each other out.$l" #!String
+    event_stadium2: "Oh benarkah? Aku terkejut... Bukankah kau pindah ke Stardew Valley karena ingin kabur dari kota?$6#$b$#Maksudku... jangan salah paham, sebenarnya aku mengerti betul. Asal kau tahu, hidupku di Pelican Town benar-benar hambar." #!String
+

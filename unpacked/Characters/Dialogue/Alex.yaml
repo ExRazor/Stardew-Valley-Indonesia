@@ -1,0 +1,101 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Oh, hei. Jadi kau si pria pendatang itu, ya? Mantap.^Oh, hei. Jadi kau si wanita pendatang itu, ya? Semoga kita bisa cepat akrab. Aku Alex.#$e#Sampai ketemu lagi." #!String
+    danceRejection: "Nah... Aku minta ke yang lain saja. Semoga berhasil." #!String
+    divorced: "Kukira kau adalah sosok terindah bagiku... Ternyata aku salah.$s" #!String
+    Mon: "Kau tahu, aku dipilih sebagai Quarterback saat SMA, lho. Serius.$u#$e#Kaulihat bintang kecil di jaket ini? Itu buktinya." #!String
+    Tue: "Pantai tempat yang asik untuk jalan-jalan dan berjemur sedikit.#e#Sering-seringlah berjemur di bawah matahari biar tidak tampak pucat.#$e#*huff*... Andaikan ada banyak cewek di kota ini. Kau paham maksudku, kan?$s^Hei, kau mau jalan denganku ke pantai kapan-kapan? Kau punya bikini?" #!String
+    Wed: "Kayaknya hari yang pas untuk main lempar tangkap, ya.$u#$e#$q 5/6 Wed_01_old#Aku ingin memintamu melemparkan bola ini, tapi kayaknya kau bukan tipe yang suka olahraga.^Andai kau bukan cewek, aku sudah mengajakmu main lempar tangkap.#$r 6 0 Wed_01_02#Aku tak masalah cuma nonton dari jauh.#$r 5 15 Wed_01_01#Aku ingin main lempar tangkap denganmu!#$r 5 0 Wed_01_03#(angry) Apa maksudnya itu?!" #!String
+    Wed_01_old: "#$p 5#Yang jauh! ... bercanda. Hahaha.|Aku hanya berharap ada yang bisa diajak main lempar tangkap...$s" #!String
+    Wed_01_01: "Astaga! Sepertinya aku sudah meremehkanmu.#$b#Tanganku jadi sedikit pegal, mungkin lain kali lagi." #!String
+    Wed_01_02: "Yah, sebagian orang memang tidak semua suka olahraga." #!String
+    Wed_01_03: "Uh... lupakan." #!String
+    Thu: "Udaranya mulai terasa hangat... Aku jadi tambah semangat." #!String
+    Fri: "Hei, ada apa, petani tampan?^Wah, si petani cantik. Sudah beli celana baru? Mantap.#e#Ah, hampir lupa! Hari ini aku harus push-up!#e#Tiap kali push-up, aku berusaha menambah push-up lebih dari yang terakhir kali. Trik yang keren, kan?" #!String
+    Sat: "Tanganku terasa pegal, tapi itu tanda berkembang dari pria sepertiku.#e#Aku pasti sudah push-up ribuan kali kemarin." #!String
+    Sun: "Hei.#$e#Apa? Mau ngobrol denganku? Aku sibuk." #!String
+    Sun2: "Hei, @.#$e#Oh iya, aku ingat namamu." #!String
+    Sun4: "Hei, @.#$e#Gimana kabarmu?" #!String
+    Fri4: "Hei, @. Aku senang kau mau mampir.#e#Aku tidak malu mengakui kalau aku mencintai Nenekku!#$e#Sementara kalau Kakekku ...#$e#Cuma bercanda.$h" #!String
+    Tue6: "Tidak ada yang lebih baik dari menikmati hari yang energik di pantai bersama teman... Ya, kan?" #!String
+    Mon8: "Kau tahu, dulu aku ingin bisa terkenal dan beruntung, tapi belakangan aku mulai berubah pikiran. Pada akhirnya, sedikit kebaikan kecil saja sudah membuat diri puas, ya kan?#$e# Aku masih ingin jadi seorang pro, tapi itu tidak begitu penting di dunia ini." #!String
+    Fri8: "Hei, @. Kau tampak segar hari ini.$h^Hei, @. Kau mengubah gaya rambutmu? Ada saja yang selalu mengalihkan perhatianku.$h" #!String
+    Sat10: "Aku agak susah fokus belakangan ini.$l" #!String
+    Event_beach1: "Ya iyalah. Kalau tidak setuju, aku akan mengira kau gila. Atau agak aneh." #!String
+    Event_beach2: "Masa? Kau ini aneh.$a#$b#Maaf." #!String
+    Event_books1: "Tidak mau! Kau hanya berusaha merayuku, kan?$a" #!String
+    Event_books2: "Yaa, kurasa kau benar...$s" #!String
+    Event_books3: "Kau harusnya tidak setuju denganku.$a" #!String
+    event_box1: "Iya, aku tahu. Makanya aku ingin sekali sukses di bidang olahraga...$9#$b#Berhasil atau tidak, selama aku berusaha sekeras mungkin, kurasa beliau pun akan bangga. Terima kasih." #!String
+    event_box2: "Wow... Ini hari peringatan kematian ibuku! Pakai hati sedikit...$a" #!String
+    event_box3: "...Terima kasih, @.#$b#Kau... Kau berbeda dari orang lain. Lebih peka.$l^Kau sudah jadi sahabat terbaikku di penjuru kota... #$b#Aku senang.^Bilang begitu memalukan gak, ya?$l" #!String
+    event_box4: "Itu tidak membantu menghiburku, brengsek.$a" #!String
+    Event_parents1: "Pola pikir yang menarik..." #!String
+    Event_parents2: "Mereka tak mungkin melakukan itu!$a" #!String
+    Event_parents3: "...Mungkin kau benar... Entahlah.$s" #!String
+    summer_1: "Hei. Musim panas memang masa terbaik sepanjang tahun.#$e#Sekarang momen yang luar biasa, karena banyak musim mengantri di hadapan kita. Sampai ketemu nanti." #!String
+    summer_Mon: "Hei, petani tampan. Kulitmu mulai tampak terbakar.^Hei, petani cantik. Kulit cokelatmu cakep juga.$h#$e#Semakin sering aku berlatih di musim panas, semakin dekat aku menjadi seorang pro.#$e#Lalu, nanti kau bisa mengaku kalau pernah mengenalku. Keren, kan?" #!String
+    summer_Tue: "Kalau rambutku tidak menarik minat cewek, aku bersumpah bakal langsung cukur habis.#$e#*huff*... Hidup terkadang berat." #!String
+    summer_Wed: "Hei petani tampan, ada yang ingin kutanyakan.^Hei petani cantik, ada yang ingin kutanyakan.#$b#$q 52/53 summer_Wed_01_old#Kau pernah kepikiran aku bakal jadi seorang pro suatu saat nanti?#$r 52 30 summer_Wed_01_01#Kau ditakdirkan jadi legenda olahraga#$r 52 0 summer_Wed_01_02#Mungkin, kalau kau sering latihan#$r 53 -50 summer_Wed_01_03#Enggak, kau akan gagal dan cuma jadi seorang sales" #!String
+    summer_Wed_01_old: "$p 52#Eh, kalau aku jadi profesional nanti, kau boleh mengaku jadi \"penggemar\" pertamaku. Oke, sip?|Hei, aku sudah latihan dua kali lebih keras biar bisa jadi seorang pro dan membuktikannya padamu. Tunggu saja.$a" #!String
+    summer_Wed_01_01: "Nah, begitu, dong!$h#$e#Kau lebih kece dari perkiraanku ternyata." #!String
+    summer_Wed_01_02: "Yah, aku kan sudah cukup hebat, jadi tidak perlu latihan banyak-banyak.$u" #!String
+    summer_Wed_01_03: "Idih! Kau cuma iri karena aku berbakat dan populer sementara kau tidak, kan?$a^Konyol sekali. Kau cuma iri karena aku jauh lebih populer darimu, kan?$a#$e#Enyahlah dari hadapanku!$a" #!String
+    summer_Thu: "Hei, kau pasti jadi semakin berotot bekerja sepanjang hari di kebun, kan?^Hei, kau pasti jadi semakin kuat bekerja sepanjang hari di kebun, kan?#$e#Mungkin kau akan bisa setara denganku nanti. Patut ditunggu.#$e#Kenapa wajahmu begitu?" #!String
+    summer_Fri: "Apa maumu?#$e#Ada hal yang jauh lebih penting buatku sekarang." #!String
+    summer_Sat: "Mmmm... Aku mencium barbeque.#$e#Duh, jadi pengen makan burger." #!String
+    summer_Sun: "I got these new shoes yesterday 'cuz my old pair had a brown smudge.#$b#I just threw them into the garbage. I would've donated them but I don't like the idea of some weirdo wearing my shoes, ya know?#$e#...What?$a" #!String
+    summer_Sun4: "Oh wow...your shoes are a little dirty... but that's fine, too!#$e#Different people have different tastes I guess." #!String
+    summer_Thu4: "Hey, you look like you're getting into some good shape this summer!#$b#All that farm work is paying off, huh?" #!String
+    summer_Mon4: "Hey, nice tan." #!String
+    summer_Fri6: "Sorry my room is so messy.$s#$e#It's just hard to always remember to clean. I'm trying to get better, though." #!String
+    summer_Wed8: "You know, I actually wouldn't mind being a farmer... it seems a lot like playing sports, in a way.#$e#I like being outdoors and doing things with my hands." #!String
+    summer_Sat10: "I've been trying to do more reading lately... I feel like I've been neglecting my brain for years because of my athletic obsession." #!String
+    fall_1: "Sure, it's getting colder... But it's still warm enough for sports!#$e#That's all I care about." #!String
+    fall_Mon: "My Grandma told me I should spend more time studying.#$e#I was like, '...Grams, don't fret. I'm turning pro!'$h#$e#Studying is for nerds, anyway." #!String
+    fall_Wed: "Hey, I want to ask you something.^Hey, can I ask you something?#$e#$q 54/55 fall_Wed_01_old#Do you think the ladies like my haircut?^What do you think about my haircut?#$r 54 30 fall_Wed_01_01#It looks very fashionable.#$r 55 -30 fall_Wed_01_02#It looks like some kind of fungal growth." #!String
+    fall_Wed_01_old: "I put too much gel in my hair today. It kind of hurts.#$e#Don't touch it!#$e#...what?" #!String
+    fall_Wed_01_01: "Yeah, I know. That's why I have it like this." #!String
+    fall_Wed_01_02: "Yeah right. You're just jealous that I look so good." #!String
+    fall_Thu: "What's up?#$e#Isn't your name, like, %firstnameletter%name, or something?#$e#Oh. It's @? Okay. Sorry." #!String
+    fall_Fri: "I'm going to do two hundred sit-ups tonight.#$b#I'm pretty dedicated, aren't I?$h#$e#Need anything else?" #!String
+    fall_Sat: "I think you can find salmon in the river this time of year.#$e#At least that's what I heard." #!String
+    fall_Sun: "Hey, the gridball game is on today!#e#Sundays are pretty awesome in the fall.$u" #!String
+    fall_Thu2: "What's up, @?" #!String
+    fall_Fri6: "I'm going to do a ton of sit-ups tonight.#$e#You have to work really hard if you want to achieve your maximum potential." #!String
+    fall_Mon4: "My Grandma told me I should spend more time studying.#$e#Maybe she's right...$s" #!String
+    fall_Wed8: "I finally took the plunge... I've decided to stop putting gel in my hair.#$e#I wouldn't want to be friends with someone who only liked me because I have gel in my hair." #!String
+    fall_Thu10: "@! Um... Hi.$l" #!String
+    winter_1: "Winter is kind of lame. There's too much snow to do anything fun.#$e#I guess some people like it." #!String
+    winter_Mon: "You like the snow? Me... I'm just looking forward to spring." #!String
+    winter_Tue: "Hey, can you go find Haley and tell her I said 'hi'?" #!String
+    winter_Tue_inlaw_Haley: "Oh, hey. How's the married life coming along?$9" #!String
+    winter_Wed: "People stay indoors a lot during the winter, and do boring stuff.$s#$e#Maybe if I read a book I'd be less bored... nah." #!String
+    winter_Thu: "When I turn pro, I'll be so rich that I'll get a vacation home in the tropics.#$e#Then I won't have to deal with these boring winters." #!String
+    winter_Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
+    winter_Sat: "There's some weird people living in this town.#$e#...like that guy Sebastian. Why does he wear black all the time?#$e#I don't get it." #!String
+    winter_Sun: "Hey, the gridball game is on today!#e#This might be my favorite day of the week." #!String
+    winter_Fri4: "You came all the way through the snow to see me?#$e#That's nice of you.$h" #!String
+    winter_Sat6: "I guess it's interesting that some people are totally different than us, you know?#$b#I don't always understand why others act the way they do, but that's fine." #!String
+    winter_Tue4: "Hey, @. Could you do me a favor?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks." #!String
+    winter_Tue4_inlaw_Haley: "I'll admit... I was a little jealous when you and Haley got married. But, hey... It's a chance for me to learn something new about myself.$9" #!String
+    winter_Wed8: "You know what? I'm going to start reading a book!" #!String
+    winter_Thu6: "I wish I could control the weather." #!String
+    winter_Thu10: "If I ever make a lot of money, I'll make sure all my friends and family are taken care of.#$e#That means you, too.$h" #!String
+

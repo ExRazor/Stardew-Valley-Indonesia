@@ -1,0 +1,83 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Untuk para petani baru di luar sana: Tebanglah pohon dan cari tumbuhan liar selagi menunggu tumbuhanmu panen!" #!String
+    4: "Untuk para warga Stardew Valley, kalian bisa menemukan bawang spring di sebelah barat daya kota, di mana air laut dan sungai bertemu. Kamu bisa menemukan tanaman itu tumbuh di atas tanah." #!String
+    8: "Kita akan membahas tentang pagar. Pagar digunakan untuk menjauhkan rumput dan menjaga tanamanmu. Pagar juga bisa digunakan untuk membatasi hewan ternakmu. Pagar sewaktu-waktu bisa rusak, tapi pagar batu, besi, dan hardwood lebih tahan lama daripada pagar kayu biasa!" #!String
+    11: "Tanamanmu sering dimakan burung gagak? Tampaknya kamu butuh pengusir gagak! Letakkan pengusir gagak di kebunmu untuk menakuti para burung gagak. Pastikan diletakkan dekat dengan tanaman berhargamu!^Oh satu lagi, tasmu tidak cukup membawa barang banyak? Cobalah kunjungi toko swalayan terdekat." #!String
+    15: "Sekarang musim salmonberry! Di seluruh penghujung desa, setiap semak-semak ditumbuhi dengan buah kecil ini, dan tentunya kamu bebas mengambilnya! Kumpulkan buah ini untuk menambah pendapatan." #!String
+    18: "Ah, hujan... Hujan adalah teman para petani! Ketika hujan, kamu tidak perlu menyiram tanaman. Gunakan kesempatan itu untuk bersantai!" #!String
+    22: "Genggam erat kail pancingmu dan jual hasil tangkapannya! Memancing adalah cara yang bagus untuk mendapatkan penghasilan tambahan. Tempat memancingmu akan jadi penentu ikan apa yang akan didapatkan... Penentu tersebut berupa lokasi, musim, waktu, dan cuaca!" #!String
+    25: "Pohon buah. Ingat, Pohon ini butuh satu bulan untuk tumbuh besar! Jika area disekitar pohon ini terganggu oleh benda lain, itu akan menggangu pertumbuhan pohon. Ketika pohon buah telah dewasa, Pohon akan menghasilkan buah segar setiap hari di setiap musimnya. Maka dari itu, mulailah menanam!" #!String
+    29: "Musim panas telah tiba bersama dengan bibit-bibit baru yang siap ditanam! Tanamlah hops. Tumbuhan menjalar ini agak lama untuk tumbuh dewasa, tapi setelah dewasa tumbuhan ini bisa berbuah setiap hari. Jadi, selamat mencoba!" #!String
+    32: "Ini adalah daftar ikan yang hanya bisa kamu tangkap saat musim panas: Dorado, Bisa ditemukan di sungai hutan saat siang; Rainbow Trout, bisa ditemukan di sungai hutan atau di gunung saat siang; Pufferfish, bisa ditemukan di laut saat tengah hari; Dan Octopus, bisa ditemukan di laut saat pagi hari. Semoga beruntung!" #!String
+    36: "Kali ini, kita akan membahas jagung. Jagung adalah tanaman yang unik, karena bisa bertahan sampai 2 musim! Benar sekali! Kebanyakan bibit lain akan mati saat pergantian musim, tapi jagung akan terus hidup. Kamu bisa menanam jagung di musim panas dan musim gugur. Sekarang, siapkan bibit jagungmu dan ayo menanam!" #!String
+    39: "Mulai esok, kerang dan koral dengan jumlah yang banyak akan memenuhi pantai diseluruh penjuru dunia. Saya bukan seorang ilmuan, tapi setahu saya, ini ada hubungannya dengan musim kawin kepiting. Oleh karena itu, kamu bisa mendapat penghasilan tambahan dengan mengumpulkan kerang-kerang,." #!String
+    43: "Di kotamu ada pemandian air panas? Bersantailah disana dan rasakan nikmatnya air panas yang akan mengembalikan energimu. Ahh... nyaman sekali, bukan?" #!String
+    46: "Di musim panas sering terjadi hujan petir. Jika kamu tahu cara membangun penangkal petir, kamu bisa memanfaatkannya untuk mendapat baterai. Baterai ini nantinya bisa kamu jual atau untuk keperluan lainnya!" #!String
+    50: "Setiap kota biasanya mempunyai kalender bulanan di mading kota. Kamu bisa melihat hari-hari penting dan ikut meramaikan aktivitas warga. Dan jangan lupa untuk mengecek bagian permintaan warga!" #!String
+    53: "Musim gugur sebentar lagi tiba! Musim ini sering dikatakan musim paling menguntungkan bagi petani, jadi pastikan kamu menyimpan uang untuk membeli bibit baru. Jika kamu belum meningkatkan alat sirammu, sekarang adalah waktunya." #!String
+    57: "Kita akan membahas bunga matahari. Ketika panen kamu tidak hanya akan mendapat bunga indahnya, tapi juga mendapatkan biji-bijinya. Nah, dengan biji-biji ini kamu bisa menanam kembali bunga ini atau kamu juga bisa menjualnya untuk penghasilan tambahan!" #!String
+    60: "Sekarang musimnya blackberry! Seluruh semak-semak di setiap pinggiran hutan akan dipenuhi oleh buah manis ini. Pergilah sekarang dan buktikan sendiri!" #!String
+    64: "Jika kamu seorang petani dari kota kecil, biasanya kamu akan diundang untuk membuat \"grange display\" (pertunjukkan hasil kebun). Biasanya, kamu harus mengisi grange display dengan 9 barang yang sesuai dengan hasil panenmu. Bawalah barang dengan kualitas terbaik. Kau bisa membawa ikan, mineral, buah, dan sayuran untuk dilombakan!" #!String
+    67: "Kabar ikan: Ikan salmon. Di musim ini, ikan salmon kembali ke perairan air tawar untuk bertelur. Artinya, sungai sekarang di penuhi oleh ikan ini! Kamu hanya bisa menangkapnya saat musim gugur, jadi bersiaplah memancing sebelum ketinggalan." #!String
+    71: "Kamu sudah punya Tapper? Petani yang kreatif biasanya tahu cara membuatnya. Letakkan Tapper di pohon liar. Dengan Tapper, pohon maple bisa menghasilkan sirup maple, pohon oak bisa menghasilkan getah, dan pohon pinus bisa menghasilkan tar pinus. Sirup adalah yang paling berguna, tapi produksi pohon lainnya juga punya kegunaan masing-masing!" #!String
+    74: "Musim dingin sebentar lagi tiba. Pastikan kamu sudah menyimpan jerami yang banyak untuk pakan ternakmu selama musim dingin, karena semua rumput mati di musim ini. Setiap silo hanya bisa menyimpan 240 buah jerami, jadi mulailah perkiraan berapa jerami yang harus kamu gunakan untuk musim ini!" #!String
+    78: "Kabar ikan: Ikan Walleye. Kamu bisa menangkap ikan ini, saat hujan pada malam musim gugur dan dingin. Ikan ini biasanya hidup di perairan sungai." #!String
+    81: "Musim dingin segera tiba... dan artinya pekerjaan kebunmu akan terhambat. Itu karena tidak ada tumbuhan yang tumbuh di musim ini, kecuali kamu punya rumah kaca tentunya. Meski begitu, masih banyak hal lain yang bisa dilakukan! Sampai jumpa." #!String
+    85: "Musim dingin... Waktu dimana semuanya menjadi sepi.  Di musim ini adalah waktu yang tepat untuk menambang, memancing dan melakukan aktifitas lainnya. Seperti, meningkatkan peralatanmu di musim ini, untuk persiapan musim semi nanti. Atau kamu juga bisa menyuruh tukang kayu setempat untuk membangun sesuatu di kebunmu!" #!String
+    88: "Kamu bingung bagaimana caranya untuk membuat 'Refined Quartz'? Taruh saja quartz biasa ke tungku api. Kau butuh arang untuk menghidupkan apinya." #!String
+    92: "Kamu menemukan benih pohon saat memotong kayu? Kamu bisa menanam benih itu ke tanah dan pohon baru akan tumbuh. Cobalah!" #!String
+    95: "Ada beberapa ikan yang hanya bisa ditemukan saat musim dingin... Cumi-cumi dan Lingcod. Cumi-cumi bisa ditemukan di laut saat malam. Lingcod bisa ditemukan di perairan sungai saat siang hari. Selain kedua ikan ini, ada kabar tentang ikan yang hanya bisa ditemukan di beberapa musim saja, tapi kami belum mendapatkan informasi yang jelas tentangnya." #!String
+    99: "Kali ini, kita akan membahas tentang geode. Geode adalah batu keras yang biasa di dalamnya mengandung mineral yang berguna. Pandai besi bisa menghancurkan geode ini untukmu. Lalu, ada beberapa macam geode... dan setiap macamnya mengandung mineral yang berbeda. Geode yang paling langka adalah \"omni-geode\", Geode ini biasanya mengandung semua macam mineral." #!String
+    102: "Jika kamu ingin membuat seseorang bahagia, beri hadiah favorit saat ulang tahun mereka! Percayalah mereka pasti bahagia." #!String
+    106: "Pernah lihat ada cacing kecil keluar di tanah? Gali tanah di tempat cacing tersebut, kamu pasti akan menemukan sesuatu. Jangan tanya saya kenapa bisa demikian" #!String
+    109: "Pernah mengais kotak sampah tetangga? Iwh! Hei, kalau kamu sering melakukan itu, usakahan tidak ada orang di sekitar. Jika mereka melihatmu, mereka bisa jijik denganmu, dan itu akan berpengaruh pada hubungan kalian." #!String
+    113: "Tahun baru akhirnya tiba. Cek terus bibit-bibit baru yang dijual di toko swalayan di kotamu. Kami harap, kamu sudah meningkatkan peralatanmu saat musim dingin kemarin untuk siap produktif di tahun yang baru!" #!String
+    116: "Kabar ikan: Belut. Belut bisa ditemukan di perairan laut pada musim semi dan gugur, ketika cuaca hujan di malam hari." #!String
+    120: "Kamu punya dapur? Memasak adalah cara yang tepat untuk meningkatkan kemampuanmu. Tidak hanya itu, masakan yang dimasak berfungsi sebagai sumber energi praktis, tapi ada beberapa masakan yang bisa menambah skill, kecepatan gerakmu dan lainnya! Tertarik?" #!String
+    123: "Bahasan Alat: Penangkap Kepiting. Pemancing yang berpengalaman pasti tahu cara membuat penangkap kepiting. Walaupun namanya begitu, benda ini juga bisa menangkap mahluk air lain selain kepiting. Cukup taruh benda ini ke air dan isi dengan umpan. Kembalilah besok dan lihat apa yang berhasil ditangkap." #!String
+    127: "Sekarang musim salmonberry! Di seluruh penjuru desa, setiap semak-semak ditumbuhi dengan buah kecil ini, dan pastinya kamu bebas mengambilnya! Kumpulkan buah ini untuk mendapatkan pendapatan lebih." #!String
+    130: "Kita akan membahas tentang madu. Madu adalah sebuah cairan manis yang dihasilkan oleh lebah. Kami punya tips untukmu. Jika kamu punya bunga mekar di dekat rumah lebahmu, madu akan cepat tercipta. Jika tidak, kamu harus menunggu lama untuk mendapat cairan manis ini. Tertarik mencoba?" #!String
+    134: "Ini adalah tips untuk para petualang di luar sana... Gunakan selalu 'special attack' senjatamu! Pedang bisa menghalau serangan, sangat berguna jika ada slime yang melompat ke arahmu. Palu bisa digunakan untuk mengguncang tanah, membuat musuh terpental jauh. Dan dengan belati, kamu bisa melakukan serangan 3 kali super cepat! Semoga beruntung." #!String
+    137: "Kita akan membahas tentang Guild Petualang terkenal yang ada di kota Pelican. Pemimpin guild tersebut, Marlon, punya sebuah program di mana seorang petualang akan mendapat hadiah jika cukup berani untuk mengalahkan beberapa monster. Petualang yang mendapat hadiah biasanya mendapat senjata yang kuat. Jika kamu ingin melihat apa saja monster yang harus dikalahkan, lihatlah catatan di sana. Tertarik?" #!String
+    141: "Aku dengar ada beberapa orang sengaja menunggu kereta api lewat, supaya bisa mengumpulkan barang-barang yang tak sengaja dijatuhkan kereta tersebut. Walah, saya tidak menyangka mereka punya waktu seluang itu!" #!String
+    144: "Bahasan Hewan: Babi.^^Saat ini, babi punya kemampuan menemukan jamur truffle. Cukup membiarkan hewan ini keluar dari kandang lalu bersabarlah sampai mereka menemukan jamur berharga ini. jamur ini bisa kamu jadikan minyak untuk memaksimalkan harganya." #!String
+    148: "Ikan yang hanya bisa ditangkap saat musim panas: Ikan Dorado, bisa ditemukan di sungai hutan pada saat siang hari; Ikan Rainbow Trout, bisa ditemukan di sungai hutan dan gunung saat siang hari; Ikan Buntal, bisa ditemukan di laut awal-awal tengah hari; dan Gurita, bisa dirtemukan di laut saat pagi hari. Semoga beruntung!" #!String
+    151: "Kabar ikan: Super Cucumber. Kamu bisa menemukan mahluk langka ini di lautan. Akan tetapi, mahluk ini hanya muncul saat malam di musim panas dan dingin." #!String
+    155: "Aku tahu memang berat, tapi berhentilah mengkhawatirkan kudamu! Kamu bisa meninggalkan kudamu di mana saja, dan kudamu pasti akan kembali ke rumah dengan sendirinya. Kuda benar-benar hewan yang pintar dan mandiri!" #!String
+    158: "Tips untuk mendapat penghasilan tambahan! Taruh tapper ke pohon liar dan tunggu beberapa hari. Setelah selesai menunggu, pohon akan menghasilkan produk khas mereka." #!String
+    162: "Bahasan Alat: Bakul. Bakul biasanya digunakan untuk membuat wine dari buah anggur. Tapi kamu sudah tahu kalau wine juga bisa dibuat dari buah selain anggur? Jawabannya bisa.^Kamu juga bisa menaruh sayuran di alat ini untuk membuat jus." #!String
+    165: "Kamu punya jurnal? Jangan lupa sesekali diperiksa, agar kamu ingat hal penting yang kamu tulis sebelumnya." #!String
+    169: "Jika kamu mempunyai 'bibit langka', sekarang adalah waktunya untuk menanam tanaman itu. Walaupun katanya bibit ini bisa tumbuh di musim apa saja, sumber terpercaya kami mengabarkan bahwa bibit ini akan tumbuh dewasa dalam 24 hari. Dan kabar terakhir yang kami terima, buah yang dihasilkan adalah buah termanis yang pernah ada di muka bumi." #!String
+    172: "Sekarang musimnya blackberry! Seluruh semak-semak di setiap pinggiran hutan akan dipenuhi oleh buah manis ini. Pergilah sekarang dan temukan sendiri!" #!String
+    176: "Beberapa petani melaporkan terjadi sesuatu yang aneh di kebun mereka saat cauliflower, melon, dan pumpkin tumbuh dewasa. Hmmm. Walau begitu, kami tidak bisa membuktikannya secara pasti." #!String
+    179: "Kamu ingin menikah? Jika iya, kamu butuh Kalung Duyung. Sudah menjadi tradisi untuk memberi Kalung Duyung saat ingin menikah dengan seseorang.^Untuk mendapatkan kalung ini sangatlah sulit. Setiap kota pasti punya caranya sendiri, tapi cara ini selalu berhubungan dengan pantai dan lautan." #!String
+    183: "Bahasan Alat: Mesin Daur Ulang. Kamu pernah dapat sampah saat memancing? Hal ini lumrah terjadi di zaman sekarang. Dengan mesin daur ulang, kamu bisa mengolah sampah-sampah ini jadi barang yang berguna. Kamu hanya perlu membuang sampahmu ke mesin ini, dan mesinnya akan melakukan tugasnya. Setiap tipe sampah, akan menghasilkan hasil barang yang berbeda." #!String
+    186: "Kabar ikan: Ikan Albacore. Ikan ini bisa ditemukan di pagi dan malam hari. Carilah ikan ini di perairan laut saat musim gugur dan dingin." #!String
+    190: "Kabar ikan: Woodskip, sandfish, dan scorpion carp. Ikan woodskip dikabarkan hanya bisa ditemukan di perairan hutan dalam. Ikan sandfish dan scorpion carp hanya bisa ditemukan di danau gurun." #!String
+    193: "Beberapa hari lagi, warga Republik Ferngill akan mengadakan acara Spirit's Eve! Tradisi dimana para warga mencari labu emas. Jika kotamu mengadakan acara ini juga, ikutlah mencari labu emas ini, untuk memeriahkan acara!" #!String
+    197: "Penonton sekalian, ingatlah ini. Kamu harus pergi cek kesehatanmu jika ingin mempunyai anak!" #!String
+    200: "Bahasan Alat: Crystalarium. Mesin hebat ini bisa membuat salinan mineral. Taruh mineralmu ke dalam mesin ini dan tunggu hingga mesin ini menggandakan mineralmu. Memang lama, tapi ayolah... sabar sedikit!" #!String
+    204: "Jika kandangmu masih luang, dan kamu punya ternak dewasa, ada kemungkinan hewan ternakmu akan melahirkan anak. Jadi ingatah baik-baik." #!String
+    207: "Kabar ikan: Ikan Catfish. Ikan ini biasanya keluar saat hujan. Kamu bisa menemukan ikan ini hidup di sungai dekat kota, tempat ikan ini bisa menikmati makanan yang ada di seitar sungai tersebut. Ikan ini tidak menyukai udara panas, jadi jangan mencarinya saat musim panas!" #!String
+    211: "Bahasan Item: Tong Cacing. Kamu butuh pasokan umpan? Buatlah tong cacing. Alat ini akan menghasilkan umpan tiap harinya." #!String
+    214: "Di bawah salju musim dingin, biasanya benih-benih tanaman liar sudah mulai tumbuh, jadi jangan terkejut kebunmu dipenuhi rumput musim semi nanti!" #!String
+    218: "Jika kamu punya Pan Emas, perhatikan titik berkilauan di dalam air.^Biasanya ada logam berguna di sana, dan kamu bebas mengambilnya!   " #!String
+    221: "Penonton sekalian, kami punya pengumuman penting. Ini adalah episode terakhir dari Livin' Off The Land. Aku senang bisa menemani kalian semua selama ini. Oh, dan juga mulai musim depan, acara ini akan menyiarkan tayangan ulang. Terima kasih!" #!String
+

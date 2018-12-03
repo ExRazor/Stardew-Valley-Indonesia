@@ -1,0 +1,252 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    LearnedRecipe_cooking: "cooking" #!String
+    LearnedRecipe_crafting: "crafting" #!String
+    LearnedRecipe: "Kamu mempelajari {0} resep baru: {1}" #!String
+    FarmerFile_1: "Data untuk: {0}\nJumlah Langkah: {1}\nPemberian Hadiah: {2}\nHari di Stardew Valley: {3}\nTanah Dipacul: {4}\nAlat Dirakit: {5}\nBahan Dimasak: {6}\nSampah Didaur Ulang: {7}" #!String
+    FarmerFile_2: "Monster dibantai: {0}\nIkan Ditangkap: {1}\nPancing Dilempar: {2}\nBibit Dituai: {3}\nBarang DIjual: {4} " #!String
+    NotEnoughMoney1: "Kamu tidak punya cukup uang." #!String
+    NotEnoughMoney2: "Uang tidak cukup." #!String
+    NotEnoughMoney3: "Kamu tidak punya cukup uang..." #!String
+    Backpack_Bought: "Selamat! Kamu bisa menyimpan barang sampai {0} buah sekarang!" #!String
+    About_Title: "    Stardew Valley" #!String
+    About_Credit: "\n= Dibuat oleh ConcernedApe\n< Dipublikasikan oleh Chucklefish\n= Diporting oleh Sickhead Games\n< Terjemahan Indo oleh Silver-Valley Team" #!String
+    About_CreditExtra_Console: "\n= Didistribusikan oleh 505 Games\n< QA oleh Pipeworks Studio" #!String
+    About_Website: "Website Stardew Valley" #!String
+    About_ConcernedApe: "Twitter ConcernedApe" #!String
+    About_Chucklefish: "Chucklefish, LTD." #!String
+    AnimalQuery_Move: "Pindahkan ke Kandang Lain" #!String
+    AnimalQuery_Moving_HomeChanged: "Kandang Berubah" #!String
+    AnimalQuery_Moving_BuildingFull: "Kandang Sudah Penuh" #!String
+    AnimalQuery_Moving_AlreadyHome: "Ini Adalah Kandangnya" #!String
+    AnimalQuery_Moving_CantLiveThere: "{0} Tidak Bisa Tinggal di Sana." #!String
+    AnimalQuery_Sell: "Jual seharga {0}g" #!String
+    AnimalQuery_AllowReproduction: "Biarkan Mengandung" #!String
+    AnimalQuery_Age1: "Usia: 1 bulan" #!String
+    AnimalQuery_AgeN: "Usia: {0} bulan" #!String
+    AnimalQuery_AgeBaby: " (Bayi)" #!String
+    AnimalQuery_Parent: "Induk: {0}" #!String
+    AnimalQuery_ConfirmSell: "Kamu yakin?" #!String
+    AnimalQuery_ChooseBuilding: "Pilihlah kandang {0} untuk {1}" #!String
+    Billboard_Birthday: "Ultah {0}" #!String
+    Billboard_SBirthday: "Ultah {0}" #!String
+    Billboard_Year: "Tahun {0}" #!String
+    Billboard_NothingPosted: "Tidak ada permintaan hari ini." #!String
+    AcceptQuest: "Terima Quest" #!String
+    BobberBar_Perfect: "Perfect!" #!String
+    Confirm: "OK" #!String
+    Carpenter_Demolish: "Hancurkan Bangunan" #!String
+    Carpenter_MoveBuildings: "Pindahkan Bangunan" #!String
+    Carpenter_Upgrade: "Upgrade dari {0}" #!String
+    Carpenter_Build: "Bangun Bangunan" #!String
+    Carpenter_CantDemolish_DuringConstruction: "Tidak bisa dihancurkan selama pembangunan" #!String
+    Carpenter_CantDemolish_AnimalsHere: "Tidak bisa dihancurkan jika ada ternak di dalam" #!String
+    Carpenter_CantUpgrade_BuildingType: "Jenis Bangunan Keliru" #!String
+    Carpenter_CantBuild: "Tidak Bisa Dibangun di Situ" #!String
+    Carpenter_SelectBuilding_Upgrade: "Pilih {0} untuk di-upgrade" #!String
+    Carpenter_SelectBuilding_Demolish: "Pilih bangunan untuk dihancurkan" #!String
+    Carpenter_ChooseLocation: "Pilih Lokasi" #!String
+    Character_Name: "Nama" #!String
+    Character_Farm: "Nama\nKebun" #!String
+    Character_FavoriteThing: "Barang\nKesukaan" #!String
+    Character_Animal: "Hewan\nPeliharaan" #!String
+    Character_Skin: "Kulit" #!String
+    Character_EyeColor: "Mata:" #!String
+    Character_Hair: "Rambut" #!String
+    Character_HairColor: "Rambut:" #!String
+    Character_Shirt: "Celana" #!String
+    Character_PantsColor: "Celana:" #!String
+    Character_SkipIntro: "Lewati Intro" #!String
+    Character_Accessory: "Acc." #!String
+    Character_FarmNameSuffix: "Kebun" #!String
+    Character_FarmType: "Jenis Kebun:" #!String
+    Character_FarmStandard: "Kebun Standar_Tanah yang sederhana, dengan ruang terbuka lebih lapang untuk kebutuhan desain." #!String
+    Character_FarmForaging: "Kebun dengan Hutan_Hutannya membatasi lahan kebunmu. Akan tetapi, berkah hutan tepat berada di depan pintu rumahmu..." #!String
+    Character_FarmFishing: "Kebun Dekat Sungai_Kebunmu terbentang di beberapa pulau dengan dibatasi sungai. Ikan lebih sering ditemukan di sini.." #!String
+    Character_FarmMining: "Kebun Atas Bukit_Bukit berbatu dan sungai berarus membuatmu sulit untuk mendesain kebunmu. Akan tetapi, lokasi tambang membuat tambangmu semakin berlimpah." #!String
+    Character_FarmCombat: "Kebun Alam Liar_Banyak lahan yang bagus di sini, tapi waspadalah... malam hari ada monster berkeliaran." #!String
+    Character_FarmCombat_Unlock: "You unlocked the 'Wilderness' farm layout!" #!String
+    Character_FarmMining_Unlock: "You unlocked the 'Hill-top' farm layout!" #!String
+    Character_FarmFishing_Unlock: "You unlocked the 'Riverland' farm layout!" #!String
+    Character_FarmForaging_Unlock: "You unlocked the 'Forest' farm layout!" #!String
+    Character_foraging: "memungut" #!String
+    Character_fishing: "memancing" #!String
+    Character_mining: "menambang" #!String
+    Character_combat: "bertarung" #!String
+    JukeboxMenu_Title: "Jukebox" #!String
+    Collections_Shipped: "Barang Dijual (Hasil Panen & Memungut)" #!String
+    Collections_Fish: "Ikan" #!String
+    Collections_Artifacts: "Artefak" #!String
+    Collections_Minerals: "Mineral" #!String
+    Collections_Cooking: "Memasak" #!String
+    Collections_Achievements: "Pencapaian" #!String
+    Collections_Description_ArtifactsFound: "Total Ditemukan: {0}" #!String
+    Collections_Description_RecipesCooked: "Memasak: {0}" #!String
+    Collections_Description_FishCaught: "Jumlah Tangkapan: {0}" #!String
+    Collections_Description_BiggestCatch: "Tangkapan Terbesar: {0} in." #!String
+    Collections_Description_MineralsFound: "Jumlah Ditemukan: {0}" #!String
+    Collections_Description_NumberShipped: "Jumlah Dijual: {0}" #!String
+    QuestButton_Hover: "Jurnal ({0})" #!String
+    QuestButton_Hover_Console: "Jurnal" #!String
+    ZoomInButton_Hover: "Zoom In" #!String
+    ZoomOutButton_Hover: "Zoom Out" #!String
+    ExitToTitle: "Kembali ke Menu Utama" #!String
+    ExitToDesktop: "Keluar ke Desktop" #!String
+    GameMenu_Inventory: "Inventori" #!String
+    GameMenu_Skills: "Skill" #!String
+    GameMenu_Social: "Sosial" #!String
+    GameMenu_Map: "Peta" #!String
+    GameMenu_Crafting: "Rakit" #!String
+    GameMenu_Collections: "Koleksi" #!String
+    GameMenu_Options: "Setelan" #!String
+    GameMenu_Exit: "Keluar Game" #!String
+    GameMenu_JunimoNote_Hover: "Gedung Serbaguna" #!String
+    GeodeMenu_InventoryFull: "Inventorimu tidak punya cukup ruang." #!String
+    GeodeMenu_Description_NotEnoughMoney: "Tarifnya 25g per geode...\n\nTampaknya uangmu tidak mencukupi saat ini." #!String
+    GeodeMenu_Description: "Cukup tempatkan geode-nya ke paronku dan biar kuhancurkan.\n\nHarganya 25g per geode." #!String
+    ItemHover_DefenseBonus: "+{0} Defense" #!String
+    ItemHover_ImmunityBonus: "+{0} Immunity" #!String
+    ItemHover_CritChanceBonus: "+{0} Crit. Chance" #!String
+    ItemHover_CritPowerBonus: "+{0} Crit. Power" #!String
+    ItemHover_Damage: "{0}-{1} Damage" #!String
+    ItemHover_Speed: "{0} Speed" #!String
+    ItemHover_Weight: "{0} Weight" #!String
+    ItemHover_Energy: "{0} Energy" #!String
+    ItemHover_Health: "{0} Health" #!String
+    ItemHover_Buff0: "{0} Farming" #!String
+    ItemHover_Buff1: "{0} Fishing" #!String
+    ItemHover_Buff2: "{0} Mining" #!String
+    ItemHover_Buff3: "{0} Combat" #!String
+    ItemHover_Buff4: "{0} Luck" #!String
+    ItemHover_Buff5: "{0} Foraging" #!String
+    ItemHover_Buff6: "{0} Max Energy" #!String
+    ItemHover_Buff7: "{0} Max Energy" #!String
+    ItemHover_Buff8: "{0} Magnetism" #!String
+    ItemHover_Buff9: "{0} Speed" #!String
+    ItemHover_Buff10: "{0} Defense" #!String
+    ItemHover_Buff11: "{0} Attack" #!String
+    ItemHover_Requirements: "Butuh {0}\n{1}s" #!String
+    Inventory_PortraitHover_Level: "Level {0}" #!String
+    Inventory_FarmName: "Kebun {0}" #!String
+    Inventory_CurrentFunds: "Uang Sekarang: {0}g" #!String
+    Inventory_TotalEarnings: "Total Pendapatan: {0}g" #!String
+    ItemGrab_Organize: "Rapikan" #!String
+    ShippingBin_LastItem: "Barang Terakhir Dimasukkan" #!String
+    JojaCDMenu_Hover0: "Perbaiki bus yang menuju Gurun Calico." #!String
+    JojaCDMenu_Hover1: "Perbaiki sistem kereta tambang yang ada di perhentian bus, gunung, dan Kota Pelican." #!String
+    JojaCDMenu_Hover2: "Perbaiki jembatan rusak di gunung." #!String
+    JojaCDMenu_Hover3: "Perbaiki gedung tua di kebun, ubah jadi rumah kaca." #!String
+    JojaCDMenu_Hover4: "Singkirkan batu besar bercahaya dekat pintu masuk tambang." #!String
+    JunimoNote_BundleName: "Bundel {0}" #!String
+    JunimoNote_RewardBoiler: "Hadiah: Kereta Tambang Diperbaiki" #!String
+    JunimoNote_RewardBulletin: "Hadiah: Persahabatan Erat <" #!String
+    JunimoNote_RewardCrafts: "Hadiah: Jembatan Diperbaiki" #!String
+    JunimoNote_RewardPantry: "Hadiah: Rumah Kaca" #!String
+    JunimoNote_RewardVault: "Hadiah: Bus Diperbaiki" #!String
+    JunimoNote_RewardFishTank: "Hadiah: Batu Bersinar Disingkirkan" #!String
+    JunimoNote_MustBeAtCC: "Harus disetor ke Gedung Serbaguna" #!String
+    LetterViewer_MoneyIncluded: "$ {0}g terlampir" #!String
+    LetterViewer_LearnedRecipe: "Resep {0} baru:" #!String
+    LetterViewer_LearnedRecipeName: "'{0}'" #!String
+    LevelUp_Title: "Level {0} {1}" #!String
+    LevelUp_ExtraInfo_Farming1: "+1 Kecakapan Penyiram" #!String
+    LevelUp_ExtraInfo_Farming2: "+1 Kecakapan Pacul" #!String
+    LevelUp_ExtraInfo_Mining: "+1 Kecakapan Beliung" #!String
+    LevelUp_ExtraInfo_Fishing: "+1 Kecakapan Pancingan" #!String
+    LevelUp_ExtraInfo_Foraging1: "+1 Kecakapan Kapak" #!String
+    LevelUp_ExtraInfo_Foraging2: "Pohon kadang kala menjatuhkan bibit." #!String
+    LevelUp_ExtraInfo_Foraging3: "+1 Hasil pungutan beri liar." #!String
+    LevelUp_ExtraInfo_Combat: "+5 HP" #!String
+    LevelUp_ExtraInfo_Luck: "Hoki Bertambah" #!String
+    LevelUp_ProfessionName_Rancher: "Rancher" #!String
+    LevelUp_ProfessionDescription_Rancher: "Produk hewan 20% lebih mahal." #!String
+    LevelUp_ProfessionName_Tiller: "Tiller" #!String
+    LevelUp_ProfessionDescription_Tiller: "Hasil panen 10% lebih mahal." #!String
+    LevelUp_ProfessionName_Coopmaster: "Coopmaster" #!String
+    LevelUp_ProfessionDescription_Coopmaster: "Cepat akrab dengan hewan unggas.\nWaktu pengeraman terpangkas setengah." #!String
+    LevelUp_ProfessionName_Shepherd: "Shepherd" #!String
+    LevelUp_ProfessionDescription_Shepherd: "Cepat akrab dengan hewan ternak.\nDomba memproduksi wol lebih cepat." #!String
+    LevelUp_ProfessionName_Artisan: "Artisan" #!String
+    LevelUp_ProfessionDescription_Artisan: "Hasil Olahan (wine, keju, minyak, dll.) 40% lebih berharga." #!String
+    LevelUp_ProfessionName_Agriculturist: "Agriculturist" #!String
+    LevelUp_ProfessionDescription_Agriculturist: "Semua tanaman tumbuh 10% lebih cepat." #!String
+    LevelUp_ProfessionName_Fisher: "Fisher" #!String
+    LevelUp_ProfessionDescription_Fisher: "Ikan 25% lebih mahal." #!String
+    LevelUp_ProfessionName_Trapper: "Trapper" #!String
+    LevelUp_ProfessionDescription_Trapper: "Bahan untuk merakit crab pot dikurangi." #!String
+    LevelUp_ProfessionName_Angler: "Angler" #!String
+    LevelUp_ProfessionDescription_Angler: "Ikan 50% lebih mahal." #!String
+    LevelUp_ProfessionName_Pirate: "Pirate" #!String
+    LevelUp_ProfessionDescription_Pirate: "Kesempatan menemukan harta berganda." #!String
+    LevelUp_ProfessionName_Mariner: "Mariner" #!String
+    LevelUp_ProfessionDescription_Mariner: "Crab pot tidak lagi menghasilkan sampah." #!String
+    LevelUp_ProfessionName_Luremaster: "Luremaster" #!String
+    LevelUp_ProfessionDescription_Luremaster: "Crab pot tidak lagi butuh umpan." #!String
+    LevelUp_ProfessionName_Forester: "Forester" #!String
+    LevelUp_ProfessionDescription_Forester: "Kayu jadi 50% lebih mahal." #!String
+    LevelUp_ProfessionName_Gatherer: "Gatherer" #!String
+    LevelUp_ProfessionDescription_Gatherer: "Kesempatan untuk memperoleh pungutan hijauan dua kali lipat." #!String
+    LevelUp_ProfessionName_Lumberjack: "Lumberjack" #!String
+    LevelUp_ProfessionDescription_Lumberjack: "Semua pohon berkemungkinan menjatuhkan hardwood." #!String
+    LevelUp_ProfessionName_Tapper: "Tapper" #!String
+    LevelUp_ProfessionDescription_Tapper: "Sirup jadi 25% lebih mahal." #!String
+    LevelUp_ProfessionName_Botanist: "Botanist" #!String
+    LevelUp_ProfessionDescription_Botanist: "Pungutan hijauan selalu berkualitas tinggi." #!String
+    LevelUp_ProfessionName_Tracker: "Tracker" #!String
+    LevelUp_ProfessionDescription_Tracker: "Lokasi pungutan hijauan ditampilkan." #!String
+    LevelUp_ProfessionName_Miner: "Miner" #!String
+    LevelUp_ProfessionDescription_Miner: "+1 ore per lapisan." #!String
+    LevelUp_ProfessionName_Geologist: "Geologist" #!String
+    LevelUp_ProfessionDescription_Geologist: "Berkesempatan mendapat permata berganda." #!String
+    LevelUp_ProfessionName_Blacksmith: "Blacksmith" #!String
+    LevelUp_ProfessionDescription_Blacksmith: "Metal bar jadi 50% lebih berharga." #!String
+    LevelUp_ProfessionName_Prospector: "Prospector" #!String
+    LevelUp_ProfessionDescription_Prospector: "Berkesempatan untuk menemukan coal berganda." #!String
+    LevelUp_ProfessionName_Excavator: "Excavator" #!String
+    LevelUp_ProfessionDescription_Excavator: "Berkesampatan mendapat geode berganda." #!String
+    LevelUp_ProfessionName_Gemologist: "Gemologist" #!String
+    LevelUp_ProfessionDescription_Gemologist: "Permata jadi 30% lebih berharga." #!String
+    LevelUp_ProfessionName_Fighter: "Fighter" #!String
+    LevelUp_ProfessionDescription_Fighter: "Semua serangan melancarkan 10% damage lebih keras." #!String
+    LevelUp_ProfessionName_Scout: "Scout" #!String
+    LevelUp_ProfessionDescription_Scout: "Critical strike meningkat sebesar 50%." #!String
+    LevelUp_ProfessionName_Brute: "Brute" #!String
+    LevelUp_ProfessionDescription_Brute: "Damage 15% lebih keras." #!String
+    LevelUp_ProfessionName_Defender: "Defender" #!String
+    LevelUp_ProfessionDescription_Defender: "+25 HP." #!String
+    LevelUp_ProfessionName_Acrobat: "Acrobat" #!String
+    LevelUp_ProfessionDescription_Acrobat: "Jeda waktu special move dipangkas setengah." #!String
+    LevelUp_ProfessionName_Desperado: "Desperado" #!String
+    LevelUp_ProfessionDescription_Desperado: "Critical strike jadi mematikan." #!String
+    LevelUp_ChooseProfession: "Pilih profesi:" #!String
+    LevelUp_NewRecipe: "Resep {0} baru: {1}" #!String
+    LoadGameMenu_LookingForSavedGames: "Memeriksa save data..." #!String
+    LoadGameMenu_Deleting: "Menghapus..." #!String
+    TitleMenu_PressAToStart: "TEKAN @ UNTUK MULAI" #!String
+    TooManyFarmsMenu_TooManyFarms: "Kebunmu sudah mencapai angka maksimal." #!String
+    UserSignoutMenu_SignInChange: "Terdapat perubahan tanda sign-in. Sign-in kembali atau kembali ke menu utama." #!String
+    UserSignoutMenu_Returning: "Kembali ke Menu Utama." #!String
+    UserSignoutMenu_SignIn: "Sign-in" #!String
+    UserSignoutMenu_Exit: "Keluar" #!String
+    StartupMessage_FirstRun: "" #!String
+    ControllerConnectMenu_PleaseReconnect: "Tolong hubungkan controller untuk lanjut bermain." #!String
+    ControllerConnectMenu_PleaseReconnect.ps4: "Tolong hubungkan controller untuk lanjut bermain." #!String
+    Options_GamepadStyleMenus: "Gunakan Menu Berbasis Controller" #!String
+    Options_GamepadStyleMenus.ps4: "Gunakan Menu Berbasis Controller" #!String
+

@@ -1,0 +1,1 @@
+node "C:\Fansub Tools\xnbnode\main.js" extract ".\packed" ".\unpacked"

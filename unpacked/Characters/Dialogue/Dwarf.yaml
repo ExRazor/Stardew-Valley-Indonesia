@@ -1,0 +1,31 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Introduction: "Hei, untuk seukuran manusia, kamu hebat juga menambangnya." #!String
+    Mon: "Aku mendapat barang-barang ini dari daratan. Aku cuma mengambilnya dari kalian saat malam.#$e#Hmm? Apa maksudnya konsep \"kepemilikan pribadi\" kalian itu?" #!String
+    Tue: "Ah... wortel gua rebus, wortel gua panggang, sup wortel gua, dan parutan wortel gua.#$e#...Dan semangkuk sajian wortel gua sebagai pemanis malam.#$e#Kenapa?" #!String
+    Wed: "Hei, kau mau beli sesuatu?" #!String
+    Wed_6: "Dulu kala, kaumku tahu rahasia dari teknologi maju. Bukti arkeolog yang ditemukan adalah buktinya.#$e#Tapi, aku penasaran, dari mana asalnya? Dan ke mana rahasia itu pergi sekarang? Kayaknya ada beberapa pertanyaan yang takkan pernah bisa dijawab..." #!String
+    Thu_4: "Aku merasa paling nyaman di bawah tanah.#$e#Semakin jauh di dalam, semakin nyaman." #!String
+    Fri: "Kau belum pernah melihat Dwarf, kan?" #!String
+    Sat_8: "Area tambang bisa jadi tempat yang berbahaya. Berhati-hatilah, sobat." #!String
+    Sat: "Area tambang berbahaya. Gimana kalau coba beli beberapa barang dulu di tokoku untuk jaga-jaga?" #!String
+    Sun: "Suatu saat, kau harus beritahu aku soal minuman yang namanya \"susu\" ini." #!String
+    Thu: "Kau bukan mata-mata yang diutus Kelompok Bayangan, kan?#$e#Aku terus mengawasimu." #!String
+    Fri_2: "Mayoritas manusia takut dengan ketidaktahuan... Oleh karenanya, aku menyembunyikan tokoku di sini.#$e#Kemampuan menambangmu menunjukkan bahwa dirimu dapat dipercaya." #!String
+
